@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .ltda one-word domains from Unique
 
 **Public extract:** 9,883 rows · **Live catalog:** 9,883 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/ltda`  
 **Best for:** founders, investors, studios
 
@@ -72,9 +72,9 @@ print(df.head())
 | nationwide.ltda | premium   | $60       | $35           | 76             | 66     | 10     | name.com                    |
 | ace.ltda        | available | $46.98    | —             | 88             | 57     | 3      | namecheap                   |
 | power.ltda      | premium   | $66.30    | $66.30        | 98             | 62     | 5      | namecheap                   |
-| alpha.ltda      | available | $46.98    | —             | 90             | 54     | 5      | namecheap                   |
-| live.ltda       | premium   | $60       | $35           | 108            | 56     | 4      | name.com                    |
 | zero.ltda       | available | $46.98    | —             | 112            | 53     | 4      | namecheap                   |
+| live.ltda       | premium   | $60       | $35           | 108            | 56     | 4      | name.com                    |
+| alpha.ltda      | available | $46.98    | —             | 90             | 53     | 5      | namecheap                   |
 | data.ltda       | premium   | $66.30    | $66.30        | 70             | 56     | 4      | namecheap                   |
 | true.ltda       | available | $46.98    | —             | 86             | 52     | 4      | namecheap                   |
 | good.ltda       | premium   | $60       | $35           | 82             | 55     | 4      | name.com                    |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LTDA One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LTDA One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
