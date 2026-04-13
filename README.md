@@ -80,10 +80,10 @@ print(df.head())
 | good.ltda       | premium   | $60       | $35           | 82             | 55     | 4      | name.com                    |
 | abc.ltda        | available | $46.98    | —             | 102            | 50     | 3      | namecheap                   |
 | business.ltda   | premium   | $66.30    | $66.30        | 100            | 53     | 8      | namecheap                   |
-| clear.ltda      | available | $46.98    | —             | 90             | 49     | 5      | namecheap                   |
-| fast.ltda       | premium   | $60       | $35           | 82             | 53     | 4      | name.com                    |
-| simple.ltda     | available | $46.98    | —             | 128            | 48     | 6      | namecheap                   |
+| simple.ltda     | available | $46.98    | —             | 128            | 49     | 6      | namecheap                   |
 | art.ltda        | premium   | $66.30    | $66.30        | 90             | 52     | 3      | namecheap                   |
+| clear.ltda      | available | $46.98    | —             | 90             | 49     | 5      | namecheap                   |
+| fast.ltda       | premium   | $60       | $35           | 82             | 52     | 4      | name.com                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
