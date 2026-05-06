@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .ltda one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,879 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,879 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,879 domains · **Median ask:** $45.53 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/ltda`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,14 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| jewels.ltda       | available | $46.98    | —             | 80             | 15     | 6      | namecheap |
+| ladies.ltda       | available | $46.98    | —             | 80             | 17     | 6      | namecheap |
+| barup.ltda        | available | $46.98    | —             | 82             | 2      | 6      | namecheap |
+| forces.ltda       | available | $46.98    | —             | 82             | 12     | 6      | namecheap |
+| geton.ltda        | available | $46.98    | —             | 82             | 10     | 6      | namecheap |
+| toneup.ltda       | available | $46.98    | —             | 80             | 5      | 7      | namecheap |
+| stirup.ltda       | available | $46.98    | —             | 82             | 3      | 7      | namecheap |
+| leaveon.ltda      | available | $46.98    | —             | 80             | 1      | 8      | namecheap |
 | donuts.ltda       | available | $46.98    | —             | 54             | 62     | 6      | namecheap |
 | cars.ltda         | premium   | $60       | —             | 66             | 47     | 4      | name.com  |
 | farmers.ltda      | available | $46.98    | —             | 54             | 59     | 7      | namecheap |
@@ -76,14 +84,6 @@ print(df.head())
 | partners.ltda     | premium   | $60       | —             | 61             | 32     | 8      | name.com  |
 | spectra.ltda      | available | $46.98    | —             | 62             | 34     | 7      | namecheap |
 | maps.ltda         | premium   | $60       | —             | 56             | 31     | 4      | name.com  |
-| etc.ltda          | available | $46.98    | —             | 58             | 34     | 3      | namecheap |
-| brands.ltda       | premium   | $60       | —             | 62             | 28     | 6      | name.com  |
-| SanDiego.ltda     | available | $34.99    | $34.99        | 74             | 29     | 9      | namesilo  |
-| doctors.ltda      | premium   | $60       | —             | 56             | 26     | 7      | name.com  |
-| cams.ltda         | available | $34.99    | $34.99        | 52             | 29     | 4      | namesilo  |
-| loans.ltda        | premium   | $56.64    | $33.04        | 58             | 24     | 5      | namesilo  |
-| pages.ltda        | available | $46.98    | —             | 52             | 28     | 5      | namecheap |
-| boats.ltda        | premium   | $60       | —             | 52             | 24     | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,879 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,879 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are one-word names on the .ltda extension. The set includes short four-letter strings such as Acup.ltda and Trex.ltda, generic terms like jewels.ltda and ladies.ltda, and higher-risk terms such as WiFi.ltda and Chanel.ltda that may raise trademark concerns. With a median ask of 45.53, the pricing floor is accessible, but quality still varies widely. When comparing these domains, focus on whether the word is clear, easy to say, commercially usable, and defensible. For founders, the best picks are memorable and readable at a glance. For investors, the better candidates are simple words with broader resale appeal and fewer legal question marks.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Median ask is 45.53 across 12,879 .ltda domains
+- Short words like Trex.ltda stand out faster
+- Generic terms may be easier to position and resell
+- Trademark-sensitive names need extra caution
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LTDA One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LTDA One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
