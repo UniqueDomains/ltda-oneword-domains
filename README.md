@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ltda one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,879 domains · **Median ask:** $45.53 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/ltda`  
 **Best for:** founders, investors, studios
 
@@ -78,7 +78,7 @@ print(df.head())
 | jobs.ltda         | premium   | $60       | —             | 79             | 42     | 4      | name.com  |
 | robots.ltda       | available | $34.99    | $34.99        | 62             | 47     | 6      | namesilo  |
 | neuroscience.ltda | premium   | $60       | —             | 80             | 37     | 12     | name.com  |
-| whynot.ltda       | available | $46.98    | —             | 74             | 39     | 7      | namecheap |
+| whynot.ltda       | available | $46.98    | —             | 74             | 44     | 7      | namecheap |
 | teams.ltda        | premium   | $60       | —             | 62             | 32     | 5      | name.com  |
 | stories.ltda      | available | $46.98    | —             | 58             | 36     | 7      | namecheap |
 | partners.ltda     | premium   | $60       | —             | 61             | 32     | 8      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LTDA One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LTDA One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
