@@ -81,7 +81,7 @@ print(df.head())
 | whynot.ltda       | available | $46.98    | —             | 74             | 44     | 7      | namecheap |
 | teams.ltda        | premium   | $60       | —             | 62             | 32     | 5      | name.com  |
 | stories.ltda      | available | $46.98    | —             | 58             | 36     | 7      | namecheap |
-| partners.ltda     | premium   | $60       | —             | 61             | 32     | 8      | name.com  |
+| partners.ltda     | premium   | $60       | —             | 61             | 31     | 8      | name.com  |
 | spectra.ltda      | available | $46.98    | —             | 62             | 34     | 7      | namecheap |
 | maps.ltda         | premium   | $60       | —             | 56             | 31     | 4      | name.com  |
 
