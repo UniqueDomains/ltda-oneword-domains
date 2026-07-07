@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .ltda one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,879 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,879 domains · **Median ask:** $45.53 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,879 domains · **Median ask:** $39.53 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/ltda`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/ltda`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LTDA one-word domain 
 
 ### Files
 
-- `ltda.csv` — public CSV extract (1,000 rows)
-- `ltda.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `ltda.csv`, public CSV extract (1,000 rows)
+- `ltda.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| jewels.ltda       | available | $46.98    | —             | 80             | 15     | 6      | namecheap |
-| ladies.ltda       | available | $46.98    | —             | 80             | 17     | 6      | namecheap |
-| barup.ltda        | available | $46.98    | —             | 82             | 2      | 6      | namecheap |
-| forces.ltda       | available | $46.98    | —             | 82             | 12     | 6      | namecheap |
-| geton.ltda        | available | $46.98    | —             | 82             | 10     | 6      | namecheap |
-| toneup.ltda       | available | $46.98    | —             | 80             | 5      | 7      | namecheap |
-| stirup.ltda       | available | $46.98    | —             | 82             | 3      | 7      | namecheap |
-| leaveon.ltda      | available | $46.98    | —             | 80             | 1      | 8      | namecheap |
-| donuts.ltda       | available | $46.98    | —             | 54             | 62     | 6      | namecheap |
-| cars.ltda         | premium   | $60       | —             | 66             | 47     | 4      | name.com  |
-| farmers.ltda      | available | $46.98    | —             | 54             | 59     | 7      | namecheap |
-| jobs.ltda         | premium   | $60       | —             | 79             | 42     | 4      | name.com  |
-| robots.ltda       | available | $34.99    | $34.99        | 62             | 47     | 6      | namesilo  |
-| neuroscience.ltda | premium   | $60       | —             | 80             | 37     | 12     | name.com  |
-| whynot.ltda       | available | $46.98    | —             | 74             | 44     | 7      | namecheap |
-| teams.ltda        | premium   | $60       | —             | 62             | 32     | 5      | name.com  |
-| stories.ltda      | available | $46.98    | —             | 58             | 36     | 7      | namecheap |
-| partners.ltda     | premium   | $60       | —             | 61             | 31     | 8      | name.com  |
-| spectra.ltda      | available | $46.98    | —             | 62             | 34     | 7      | namecheap |
-| maps.ltda         | premium   | $60       | —             | 56             | 31     | 4      | name.com  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| age.ltda  | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
+| new.ltda  | premium   | $56.64    | $33.04        | high           | medium | 3      | namesilo  |
+| ale.ltda  | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo  |
+| own.ltda  | premium   | $56.64    | $33.04        | high           | high   | 3      | namesilo  |
+| ana.ltda  | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
+| card.ltda | premium   | $56.64    | $33.04        | medium         | medium | 4      | namesilo  |
+| Ann.ltda  | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
+| fund.ltda | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
+| atp.ltda  | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo  |
+| game.ltda | premium   | $60       | $35           | high           | medium | 4      | name.com  |
+| bee.ltda  | available | $34.99    | $34.99        | high           | medium | 3      | namesilo  |
+| gift.ltda | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
+| boo.ltda  | available | $46.98    | —             | high           | low    | 3      | namecheap |
+| high.ltda | premium   | $60       | $35           | medium         | low    | 4      | name.com  |
+| bro.ltda  | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo  |
+| made.ltda | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
+| con.ltda  | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
+| mall.ltda | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
+| coy.ltda  | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo  |
+| more.ltda | premium   | $56.64    | $33.04        | high           | medium | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .ltda extension. The set includes short four-letter strings such as Acup.ltda and Trex.ltda, generic terms like jewels.ltda and ladies.ltda, and higher-risk terms such as WiFi.ltda and Chanel.ltda that may raise trademark concerns. With a median ask of 45.53, the pricing floor is accessible, but quality still varies widely. When comparing these domains, focus on whether the word is clear, easy to say, commercially usable, and defensible. For founders, the best picks are memorable and readable at a glance. For investors, the better candidates are simple words with broader resale appeal and fewer legal question marks.
+This selection focuses exclusively on single-word .LTDA domain names, spanning everyday nouns and short brandable terms such as matcha.ltda, WiFi.ltda, watches.ltda, and coffeecake.ltda. With a median asking price near $39.53, .LTDA domains offer an affordable way to secure a clean, one-word name across categories like food, technology, lifestyle, and wellness. Because .LTDA is a newer, non-mainstream extension, evaluating each domain on pricing, renewal cost, and pronounceability matters more than relying on the TLD's own recognition.
 
-- Median ask is 45.53 across 12,879 .ltda domains
-- Short words like Trex.ltda stand out faster
-- Generic terms may be easier to position and resell
-- Trademark-sensitive names need extra caution
+- 12,879 one-word .LTDA domains tracked in this selection
+- Median asking price: ~$39.53 across the list
+- Covers food, tech, lifestyle, and wellness one-word terms
+- Non-mainstream TLD—compare pricing & renewal before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LTDA One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LTDA One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
