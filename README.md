@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ltda one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,858 domains · **Median ask:** $38.31 · **High-demand under $2,500:** 30
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/ltda`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| nothing.ltda | available | $34.99    | $34.99        | high           | low    | 7      | namesilo  |
-| age.ltda     | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
-| new.ltda     | premium   | $56.64    | $33.04        | high           | medium | 3      | namesilo  |
-| ale.ltda     | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo  |
-| own.ltda     | premium   | $56.64    | $33.04        | high           | high   | 3      | namesilo  |
-| ana.ltda     | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
-| card.ltda    | premium   | $56.64    | $33.04        | medium         | medium | 4      | namesilo  |
-| Ann.ltda     | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
-| fund.ltda    | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
-| atp.ltda     | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo  |
-| game.ltda    | premium   | $60       | $35           | high           | medium | 4      | name.com  |
-| bee.ltda     | available | $34.99    | $34.99        | high           | medium | 3      | namesilo  |
-| gift.ltda    | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
-| boo.ltda     | available | $46.98    | —             | high           | low    | 3      | namecheap |
-| high.ltda    | premium   | $60       | $35           | medium         | low    | 4      | name.com  |
-| bro.ltda     | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo  |
-| made.ltda    | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
-| con.ltda     | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
-| mall.ltda    | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
-| coy.ltda     | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| age.ltda  | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
+| new.ltda  | premium   | $56.64    | $33.04        | high           | medium | 3      | namesilo  |
+| ale.ltda  | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo  |
+| own.ltda  | premium   | $56.64    | $33.04        | high           | high   | 3      | namesilo  |
+| ana.ltda  | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
+| card.ltda | premium   | $56.64    | $33.04        | medium         | medium | 4      | namesilo  |
+| Ann.ltda  | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
+| fund.ltda | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
+| atp.ltda  | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo  |
+| game.ltda | premium   | $60       | $35           | high           | medium | 4      | name.com  |
+| bee.ltda  | available | $34.99    | $34.99        | high           | medium | 3      | namesilo  |
+| gift.ltda | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
+| boo.ltda  | available | $46.98    | —             | high           | low    | 3      | namecheap |
+| high.ltda | premium   | $60       | $35           | medium         | low    | 4      | name.com  |
+| bro.ltda  | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo  |
+| made.ltda | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
+| con.ltda  | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
+| mall.ltda | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
+| coy.ltda  | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo  |
+| more.ltda | premium   | $56.64    | $33.04        | high           | medium | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LTDA One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LTDA One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
