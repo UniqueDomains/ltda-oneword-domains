@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-bfd5c040-bcf4-4e34-9b8e-9da52f550e24,clayton.ltda,available,42.98,46.98,high,low,7,namecheap,,,25/09/2026 21:46
+bfd5c040-bcf4-4e34-9b8e-9da52f550e24,clayton.ltda,available,42.98,46.98,medium,low,7,namecheap,,,25/09/2026 21:46
 c21222af-7e26-4d32-9aba-10610060fc91,onwards.ltda,available,42.98,46.98,high,low,7,namecheap,,,14/09/2026 19:51
-b3b78ba1-0fc3-43c4-bc65-31b483e2689d,score.ltda,available,42.98,46.98,high,low,5,namecheap,,,27/09/2026 06:58
+b3b78ba1-0fc3-43c4-bc65-31b483e2689d,score.ltda,available,34.99,34.99,high,low,5,namesilo,,,27/09/2026 18:29
 ee90c826-3076-4062-877f-88f8d4dfe6c9,changing.ltda,premium,56.64,33.04,high,low,8,namesilo,,,23/09/2026 13:46
 60a6d923-8bb4-433e-a995-947aebb333b6,personally.ltda,available,46.98,,high,low,10,namecheap,,,
 85c8c3ad-a7b3-43cb-81e8-c718693bd493,andesite.ltda,available,42.98,46.98,medium,low,8,namecheap,,,19/09/2026 04:04
@@ -10,19 +10,19 @@ fb5d0e02-5cbb-4ce6-b8ed-fe307232f823,fibre.ltda,available,34.99,34.99,high,low,5
 8a566f07-daca-44be-a74b-f4fe569107af,pussy.ltda,available,34.99,34.99,high,medium,5,namesilo,,,27/09/2026 08:37
 19aa40f3-28fb-4132-b341-bbef4383cffa,ventilators.ltda,available,34.99,34.99,medium,low,11,namesilo,,,18/09/2026 23:26
 973b43cf-db21-4131-b450-1e49e9a80cdd,lxxxi.ltda,available,34.99,34.99,medium,low,5,namesilo,,,
-f6f96a2d-e309-4afc-a6a8-58349f700a85,foggy.ltda,available,34.99,34.99,high,low,5,namesilo,,,10/08/2026 16:21
-cdfae73d-9454-4a1b-b113-3cadb38f6f2d,costal.ltda,available,34.99,34.99,high,low,6,namesilo,,,13/08/2026 03:04
+f6f96a2d-e309-4afc-a6a8-58349f700a85,foggy.ltda,available,34.99,34.99,medium,low,5,namesilo,,,10/08/2026 16:21
+cdfae73d-9454-4a1b-b113-3cadb38f6f2d,costal.ltda,available,34.99,34.99,medium,low,6,namesilo,,,13/08/2026 03:04
 a7ad4a0e-1a41-41e1-9c62-5b73333bd2d1,claremont.ltda,available,34.99,34.99,high,low,9,namesilo,,,27/09/2026 08:22
 f8badefa-c7ca-4085-bfcf-cd4ccf49ee83,bark.ltda,available,34.99,34.99,high,low,4,namesilo,,,22/09/2026 06:15
-3f87e352-8474-4fa6-8e6d-11e6dc4d71c4,aragon.ltda,available,34.99,34.99,high,low,6,namesilo,,,19/09/2026 23:42
+3f87e352-8474-4fa6-8e6d-11e6dc4d71c4,aragon.ltda,available,34.99,34.99,medium,low,6,namesilo,,,19/09/2026 23:42
 1dcb0098-f81e-43d2-bda6-29683e692196,dighted.ltda,available,34.99,34.99,low,low,7,namesilo,,,14/08/2026 07:17
 3a956774-de05-4b70-97d7-72ac609f866c,lottery.ltda,available,34.99,34.99,high,low,7,namesilo,,,
 b58b6892-8855-4487-8f63-3026497b3f96,mod.ltda,available,34.99,34.99,high,low,3,namesilo,,,25/08/2026 02:27
-b384b59f-cbe1-4537-bca9-0af854f6a587,paediatric.ltda,available,34.99,34.99,high,low,10,namesilo,,,04/09/2026 22:51
+b384b59f-cbe1-4537-bca9-0af854f6a587,paediatric.ltda,available,34.99,34.99,medium,low,10,namesilo,,,04/09/2026 22:51
 b7fe149f-c621-4c08-9f72-53237f0aeaf8,sundays.ltda,available,34.99,34.99,high,low,7,namesilo,,,18/09/2026 10:50
 905ea723-c8f2-4e6b-adfd-b5ab97cd34a4,autotelic.ltda,available,42.98,46.98,high,low,9,namecheap,,,07/08/2026 21:08
-4bf394dc-29e0-484f-a9f0-4ec6e355262a,abenaki.ltda,available,34.99,34.99,high,low,7,namesilo,,,
-f4f81eb2-45a9-4ce1-916b-23834f79b2ce,octad.ltda,available,34.99,34.99,high,low,5,namesilo,,,
+4bf394dc-29e0-484f-a9f0-4ec6e355262a,abenaki.ltda,available,34.99,34.99,medium,low,7,namesilo,,,
+f4f81eb2-45a9-4ce1-916b-23834f79b2ce,octad.ltda,available,34.99,34.99,medium,low,5,namesilo,,,
 c0454b74-bdcf-4955-844e-ec0e60296d26,shaken.ltda,available,34.99,34.99,high,low,6,namesilo,,,10/09/2026 05:44
 9d361bdb-a969-4f0b-9dff-45bc5aced7a7,nonstop.ltda,available,34.99,34.99,high,low,7,namesilo,,,22/09/2026 08:07
 d6f2d138-4668-416d-859c-256a4a1a899f,solidly.ltda,available,34.99,34.99,high,low,7,namesilo,,,16/09/2026 04:03
@@ -36,12 +36,13 @@ b0541e5f-92e4-4389-be48-8d491bffa30f,bahrain.ltda,available,,,high,high,7,,,,
 812d8c4c-8509-4553-ad28-31940d7350e9,literature.ltda,available,34.99,34.99,high,low,10,namesilo,,,24/08/2026 02:03
 83f1bd6f-c8f0-4a4e-87ae-ff2666e0ea5a,inevitable.ltda,available,34.99,34.99,high,low,10,namesilo,,,25/09/2026 09:24
 05229a43-1359-4808-bded-dec232e6c552,eighteenth.ltda,available,34.99,34.99,high,low,10,namesilo,,,
-25b1d446-6097-42aa-85ca-9177daf00bac,heroin.ltda,available,34.99,34.99,high,low,6,namesilo,,,24/09/2026 22:03
+25b1d446-6097-42aa-85ca-9177daf00bac,heroin.ltda,available,34.99,34.99,medium,low,6,namesilo,,,24/09/2026 22:03
 2daf5036-3c51-4db3-9241-984f849c3108,prow.ltda,available,34.99,34.99,medium,low,4,namesilo,,,18/08/2026 11:28
 62ca49b9-4844-4d7a-8847-b8cf9fe96a82,pettifog.ltda,available,34.99,34.99,medium,low,8,namesilo,,,23/09/2026 13:20
 76ac32bb-b36e-4401-b1ee-7a820be2dc16,sticking.ltda,available,34.99,34.99,high,low,8,namesilo,,,27/09/2026 06:41
 d798eec6-1769-4ca7-bfa9-e8139e22a019,mnemonic.ltda,available,34.99,34.99,high,low,8,namesilo,,,25/08/2026 02:12
 6e1ee0b8-3b41-48bf-b064-b3a224e83d3f,wooden.ltda,available,34.99,34.99,high,low,6,namesilo,,,
+488b5384-093d-4473-9fea-f45f5e81381c,emotionally.ltda,available,42.98,46.98,high,low,11,namecheap,,,27/09/2026 17:53
 cb9f1ea0-1619-4dd7-8426-040bbee3b9a3,broker.ltda,premium,56.64,33.04,high,low,6,namesilo,,,24/09/2026 10:40
 1cdac79a-0d10-4105-a345-a23e030ae0d4,mislabeled.ltda,available,34.99,34.99,medium,low,10,namesilo,,,25/08/2026 01:21
 17f7df5d-ccf6-4ec6-901c-33b430f5698f,correctly.ltda,available,42.98,46.98,high,low,9,namecheap,,,13/09/2026 20:47
@@ -50,10 +51,10 @@ d16b470e-d76c-423a-9a51-b2cda94cf308,goal.ltda,premium,56.64,33.04,high,low,4,na
 51c49eaf-4e0d-4e29-bfa3-6ffbc4425cff,general.ltda,premium,60,35,high,low,7,name.com,,,18/08/2026 21:23
 039140b8-c625-4eec-ac19-ae3927885a13,bisayan.ltda,available,42.98,46.98,medium,low,7,namecheap,,,23/09/2026 21:29
 a1179c61-94eb-4fc0-8042-07f9c462a353,involved.ltda,available,34.99,34.99,high,low,8,namesilo,,,25/09/2026 11:16
-af1dd4e1-1e3e-4562-bb10-5e4f8609884e,baronage.ltda,available,34.99,34.99,high,low,8,namesilo,,,22/09/2026 07:18
+af1dd4e1-1e3e-4562-bb10-5e4f8609884e,baronage.ltda,available,34.99,34.99,medium,low,8,namesilo,,,22/09/2026 07:18
 88d5b612-9e93-41f5-a3c6-323a8f08905d,potassium.ltda,available,42.98,46.98,high,low,9,namecheap,,,20/09/2026 22:30
 4462b2da-d570-4e69-a79b-3ca7241f95ed,acetin.ltda,available,34.99,34.99,medium,low,6,namesilo,,,17/09/2026 00:06
-b6e3e873-cdbf-44fd-9cb2-0b2e5fc5c88f,fremont.ltda,available,34.99,34.99,high,low,7,namesilo,,,27/09/2026 04:04
+b6e3e873-cdbf-44fd-9cb2-0b2e5fc5c88f,fremont.ltda,available,34.99,34.99,medium,low,7,namesilo,,,27/09/2026 04:04
 7bf442fc-259b-451c-b0d9-595f9bfb3749,apiary.ltda,available,34.99,34.99,high,low,6,namesilo,,,19/09/2026 17:20
 44f2ffc6-2af5-4d7d-ae96-4c18428dc3f8,tenanted.ltda,available,34.99,34.99,medium,low,8,namesilo,,,11/09/2026 11:09
 af482d3f-5854-429c-8898-82afb641e0f3,major.ltda,available,34.99,34.99,high,low,5,namesilo,,,25/09/2026 16:14
@@ -61,12 +62,14 @@ af482d3f-5854-429c-8898-82afb641e0f3,major.ltda,available,34.99,34.99,high,low,5
 e08910ac-3702-4943-96ba-1ba238bebfec,boast.ltda,available,34.99,34.99,high,low,5,namesilo,,,11/08/2026 01:02
 9d6955ef-edb0-4426-8345-74bbb62cbbfa,daunting.ltda,available,49.99,52.99,medium,low,8,name.com,,,13/08/2026 18:48
 47400778-a56b-40f3-ad05-f8946f454356,regularly.ltda,available,34.99,34.99,medium,low,9,namesilo,,,15/09/2026 17:25
+f369f51d-5bab-4f3c-aadf-7f161b55b09a,injuries.ltda,available,29.35,30.16,low,low,8,porkbun,,,27/09/2026 21:38
+10c32b4d-f4f5-49e7-9979-7fa938ac6106,sketch.ltda,available,34.99,34.99,high,low,6,namesilo,,,28/09/2026 01:36
 f461fe2a-cd10-453c-82e9-64dda77263e9,newsworthy.ltda,available,34.99,34.99,high,low,10,namesilo,,,03/09/2026 16:53
 7f35cc97-19c0-44b2-b6ea-0b53d050b97b,carat.ltda,available,42.98,46.98,high,low,5,namecheap,,,24/09/2026 12:45
 f3cd3edf-f8d3-4046-9111-d52799d20c2f,bitstock.ltda,available,34.99,34.99,medium,low,8,namesilo,,,23/09/2026 22:47
 d084ef65-2afe-4847-8d69-5d7165488cfc,ray.ltda,available,42.98,46.98,high,low,3,namecheap,,,22/09/2026 19:55
 b93ce57e-c249-41ff-bba3-986f2752ed33,mutable.ltda,available,34.99,34.99,medium,low,7,namesilo,,,12/08/2026 01:50
-407a1881-94de-4e7a-ba91-678258bb55c5,pawpaw.ltda,available,34.99,34.99,high,low,6,namesilo,,,20/09/2026 14:11
+407a1881-94de-4e7a-ba91-678258bb55c5,pawpaw.ltda,available,34.99,34.99,medium,low,6,namesilo,,,20/09/2026 14:11
 fcf9e5cd-3a29-4d14-8e3d-ec42c2692a63,vandalism.ltda,available,34.99,34.99,medium,low,9,namesilo,,,
 ff582b0e-9bfd-4620-9e72-076a59264c8e,eddie.ltda,available,34.99,34.99,high,low,5,namesilo,,,
 9017a8d5-ceb2-431b-aa66-808960f5cebe,trivalent.ltda,available,42.98,46.98,medium,low,9,namecheap,,,11/09/2026 20:13
@@ -87,10 +90,10 @@ b513a5a3-2173-4d97-949b-b686ff516c0d,favorite.ltda,available,34.99,34.99,high,lo
 6987eb20-e860-432b-a2f8-3c2c033a114e,jointly.ltda,available,34.99,34.99,high,low,7,namesilo,,,
 91184de8-a4f9-47ff-91aa-694299f88400,accoutered.ltda,available,34.99,34.99,medium,low,10,namesilo,,,
 3f7c4f32-bf15-4631-9f0b-d6dc54f73ad6,faddish.ltda,available,42.98,46.98,medium,low,7,namecheap,,,17/08/2026 20:33
-552216e0-cf3a-4df3-ba68-121bb5f29579,tercet.ltda,available,34.99,34.99,high,low,6,namesilo,,,
-6997dbcc-493f-4211-9cc2-51913a825e25,humanely.ltda,available,34.99,34.99,high,low,8,namesilo,,,15/09/2026 01:17
+552216e0-cf3a-4df3-ba68-121bb5f29579,tercet.ltda,available,34.99,34.99,medium,low,6,namesilo,,,
+6997dbcc-493f-4211-9cc2-51913a825e25,humanely.ltda,available,34.99,34.99,medium,low,8,namesilo,,,15/09/2026 01:17
 1c03fcae-9d88-47bd-a83c-c83a1c9c3746,nicolas.ltda,available,34.99,34.99,high,low,7,namesilo,,,25/09/2026 13:18
-b4365fbe-31fc-4910-9e28-57ee3319b152,whitefish.ltda,available,34.99,34.99,high,low,10,namesilo,,,
+b4365fbe-31fc-4910-9e28-57ee3319b152,whitefish.ltda,available,34.99,34.99,medium,low,10,namesilo,,,
 617d3261-e763-4b3c-ad8e-a2492a86f000,screeching.ltda,available,34.99,34.99,medium,low,10,namesilo,,,09/09/2026 23:59
 c90a87b3-815d-4c1d-b32e-1c2eca6a82cc,atom.ltda,available,42.98,46.98,high,medium,4,namecheap,,,20/09/2026 21:53
 2059ff33-241b-4f2e-85c4-cdc5f91fe188,levantine.ltda,available,34.99,34.99,high,low,9,namesilo,,,23/08/2026 00:31
@@ -118,7 +121,7 @@ cd911a61-adb9-46dd-9d22-faa1c645a08b,spender.ltda,available,34.99,34.99,high,low
 b439df90-49fc-4fd3-bef0-a1e80d1a140b,dont.ltda,available,34.99,34.99,low,low,4,namesilo,,,17/09/2026 00:37
 5b20d632-8c8a-4b91-b269-596f202e8cdd,shit.ltda,available,42.98,46.98,high,medium,4,namecheap,,,22/09/2026 18:05
 a1d4f6bf-a6a8-4306-a67b-6e000adc7b91,orangutan.ltda,available,34.99,34.99,high,low,9,namesilo,,,
-975c7adc-27bf-4e6e-8288-c4bae93467e0,fiend.ltda,available,34.99,34.99,high,low,5,namesilo,,,17/08/2026 21:54
+975c7adc-27bf-4e6e-8288-c4bae93467e0,fiend.ltda,available,34.99,34.99,medium,low,5,namesilo,,,17/08/2026 21:54
 803aab63-f565-4b19-9ef0-f66585601e13,dotted.ltda,available,49.99,52.99,medium,low,6,name.com,,,13/08/2026 18:28
 23583b36-9a56-4e50-8fc3-4f705a694f5c,reveals.ltda,available,34.99,34.99,medium,low,7,namesilo,,,20/09/2026 06:30
 0887fa37-ac02-4636-8042-1cd7df4cfd65,wiper.ltda,available,34.99,34.99,high,low,5,namesilo,,,24/09/2026 17:39
@@ -131,9 +134,9 @@ c74b7d9f-7f4c-42c1-86b6-8e217c9ef996,undigested.ltda,available,34.99,34.99,mediu
 f2323a2d-40c0-44fb-bcbf-39114c12a7e0,boxes.ltda,available,49.99,52.99,medium,low,5,name.com,,,17/09/2026 04:37
 f7d2e48b-dabb-474a-8951-441aea3731ee,adust.ltda,available,34.99,34.99,medium,low,5,namesilo,,,
 efbeef34-daad-4c0a-b1de-b38377d0acc5,going.ltda,available,34.99,34.99,high,low,5,namesilo,,,24/09/2026 22:35
-58246f04-fc7a-4639-a2fc-3ab39dec3d2f,slovakian.ltda,available,34.99,34.99,high,low,9,namesilo,,,10/09/2026 11:16
+58246f04-fc7a-4639-a2fc-3ab39dec3d2f,slovakian.ltda,available,34.99,34.99,medium,low,9,namesilo,,,10/09/2026 11:16
 950e8a76-b8ea-4f83-9b66-c5eb10945393,noel.ltda,available,34.99,34.99,high,low,4,namesilo,,,24/09/2026 14:54
-7d9e2434-b45c-4dfd-950c-0edcfcbf4a4a,transported.ltda,available,34.99,34.99,high,low,11,namesilo,,,16/09/2026 07:05
+7d9e2434-b45c-4dfd-950c-0edcfcbf4a4a,transported.ltda,available,34.99,34.99,medium,low,11,namesilo,,,16/09/2026 07:05
 9f7ad04c-8048-4910-b690-6de992089fc7,guile.ltda,available,34.99,34.99,medium,low,5,namesilo,,,13/08/2026 10:41
 67b04ba3-a616-41a4-b41f-5520ee9e1ba5,directed.ltda,available,42.98,46.98,high,low,8,namecheap,,,24/09/2026 10:49
 6b27c994-358e-461a-9b77-4eaec25cb9e7,wording.ltda,available,34.99,34.99,high,low,7,namesilo,,,
@@ -164,6 +167,7 @@ e8333784-7702-415a-ad4d-3846d7112f14,ararat.ltda,available,34.99,34.99,medium,lo
 d3336f98-270a-4d0a-b026-bf09df5a17e7,agromania.ltda,available,42.98,46.98,medium,low,9,namecheap,,,17/09/2026 19:38
 96224790-4808-4c3e-9cf7-9678bb03705f,aeolian.ltda,available,34.99,34.99,medium,low,7,namesilo,,,
 702689e2-666c-4d78-955d-66327a73d2d5,stupefying.ltda,available,42.98,46.98,low,low,10,namecheap,,,10/09/2026 18:10
+fb6f1675-29a1-46bc-bb59-47010a7655d2,traitor.ltda,available,34.99,34.99,high,low,7,namesilo,,,27/09/2026 13:08
 206b8ac5-e55f-478b-b562-747b5edab967,vapourish.ltda,available,34.99,34.99,medium,low,9,namesilo,,,13/09/2026 01:13
 615263b3-a852-4e0b-b3da-ee665178c215,heartburn.ltda,available,34.99,34.99,medium,low,9,namesilo,,,
 24164eec-2592-4e3b-b244-c07e7599452d,abstruse.ltda,available,34.99,34.99,medium,low,8,namesilo,,,
@@ -177,7 +181,7 @@ ec3f4e71-4455-411d-8482-daa2dd2052a6,grapey.ltda,available,34.99,34.99,medium,lo
 7a14cdde-4f9b-403f-a8a1-edda131cbd7d,charmed.ltda,available,34.99,34.99,high,low,7,namesilo,,,09/08/2026 09:57
 adf352cd-7be6-4941-8a4c-700222aff884,chris.ltda,available,34.99,34.99,high,medium,5,namesilo,,,25/09/2026 17:18
 fc98d640-22d0-41a1-89d4-4bac6ed7fe3c,cloggy.ltda,available,34.99,34.99,medium,low,6,namesilo,,,12/08/2026 11:46
-3f428414-7df4-4c9a-9de5-f4ff2d6ed81f,aves.ltda,available,34.99,34.99,high,low,4,namesilo,,,21/09/2026 09:17
+3f428414-7df4-4c9a-9de5-f4ff2d6ed81f,aves.ltda,available,34.99,34.99,medium,low,4,namesilo,,,21/09/2026 09:17
 27f3e68d-6f50-4281-8ba3-b1496c70484d,ivy.ltda,available,34.99,34.99,high,low,3,namesilo,,,
 59ed4aa7-f278-4cd8-b239-bec8999e101a,hick.ltda,available,34.99,34.99,medium,low,4,namesilo,,,11/08/2026 09:44
 46b3cd72-936e-4599-9cd6-f6d2bf413feb,experience.ltda,premium,56.64,33.04,high,low,10,namesilo,,,
@@ -189,6 +193,7 @@ ccaee8d5-1245-416f-ba81-3e0781a5c053,mottled.ltda,available,49.99,52.99,medium,l
 e0221d09-e434-40a1-a0a2-647124457a3c,euphonious.ltda,available,34.99,34.99,medium,low,10,namesilo,,,17/08/2026 14:17
 425a07ce-f933-40dc-ad1d-c28cfd4d1207,flex.ltda,available,34.99,34.99,high,medium,4,namesilo,,,23/09/2026 07:41
 56b7a7d7-3df5-4a7f-a055-36520adfe936,disastrous.ltda,available,34.99,34.99,medium,low,10,namesilo,,,11/08/2026 13:30
+0ed0757b-1bfa-4c3b-b86c-6640b7822035,fools.ltda,available,30.18,30.18,medium,low,5,dynadot,,,27/09/2026 23:44
 2ba407b5-e1e3-4d75-8624-756a544ea791,hatched.ltda,available,34.99,34.99,high,low,7,namesilo,,,13/08/2026 08:20
 7f83e280-4ba0-4840-8d4c-aa2eca4683c9,fishy.ltda,available,34.99,34.99,high,low,5,namesilo,,,18/08/2026 05:32
 e8e3d2e9-c29c-46f8-b7b2-e16e2fabbc21,misused.ltda,available,34.99,34.99,medium,low,7,namesilo,,,25/08/2026 01:56
@@ -198,6 +203,7 @@ e8e3d2e9-c29c-46f8-b7b2-e16e2fabbc21,misused.ltda,available,34.99,34.99,medium,l
 b5c21dc2-d464-45f1-9ebc-b11846d4fe12,estonian.ltda,available,34.99,34.99,high,low,8,namesilo,,,17/08/2026 13:27
 db7127d7-b38e-4a67-9aab-39ce9a266065,sapid.ltda,available,34.99,34.99,medium,low,5,namesilo,,,18/08/2026 07:14
 8b962a83-f5d9-41d5-8376-4ee8bb4f0d8e,comer.ltda,premium,56.64,33.04,medium,low,5,namesilo,,,20/09/2026 09:17
+6622aa76-4255-4030-8715-8e8df77d6166,mankind.ltda,available,55.99,55.99,high,low,7,godaddy,,,28/09/2026 02:08
 9e0d519d-fd4d-4555-9053-e5ece21cc25a,alan.ltda,available,34.99,34.99,high,low,4,namesilo,,,25/09/2026 11:29
 8fbae6a3-bc6a-49fa-ac83-965b05e2f64f,gorge.ltda,available,34.99,34.99,medium,low,5,namesilo,,,23/09/2026 17:20
 7888610f-488e-41bd-9bda-2813e6fa8308,acacia.ltda,available,42.98,46.98,high,low,6,namecheap,,,16/09/2026 19:59
@@ -237,7 +243,7 @@ e03ccc59-fc9a-4279-9e1a-00d2f6aa1719,polyatomic.ltda,available,34.99,34.99,mediu
 364e27df-cad1-4316-b1e9-6328437b2bb7,aerobe.ltda,available,34.99,34.99,medium,low,6,namesilo,,,17/09/2026 12:54
 75504fa2-cc0a-4815-906a-8a3379fb2ca7,copyright.ltda,available,42.98,46.98,high,low,9,namecheap,,,24/09/2026 18:10
 02cacc5b-fae0-4fc2-b83e-59b1a8401e50,lustful.ltda,available,42.98,46.98,medium,low,7,namecheap,,,12/08/2026 20:18
-54e8e593-15fb-49f5-9240-ebe1a102ecac,elderberry.ltda,available,34.99,34.99,high,low,10,namesilo,,,24/09/2026 00:39
+54e8e593-15fb-49f5-9240-ebe1a102ecac,elderberry.ltda,available,34.99,34.99,medium,low,10,namesilo,,,24/09/2026 00:39
 16cdd591-3269-4bba-bc42-4ce6bab40126,dispersed.ltda,available,34.99,34.99,medium,low,9,namesilo,,,14/08/2026 11:56
 3750168c-b833-49f4-b9a8-995e4cec0b2a,carpus.ltda,available,34.99,34.99,medium,low,6,namesilo,,,20/09/2026 11:32
 d5c314e0-1b9c-44f7-8714-9b55b9c2ad9f,bhutanese.ltda,available,34.99,34.99,medium,low,9,namesilo,,,09/08/2026 18:24
@@ -246,9 +252,10 @@ c02d9033-a822-4cd0-a03c-09b841564467,sausage.ltda,available,34.99,34.99,high,low
 9c399964-12b3-47d6-b931-616f203a7725,dropping.ltda,available,34.99,34.99,high,low,8,namesilo,,,14/08/2026 19:47
 8c312fd5-33e2-4b51-a19c-0761d8b9567e,ibidem.ltda,available,34.99,34.99,medium,low,6,namesilo,,,15/09/2026 01:34
 94a34e18-e23a-42f7-852f-1c74b77ba2b8,apheresis.ltda,available,34.99,34.99,medium,low,9,namesilo,,,19/09/2026 16:49
+8893420a-23f7-4a83-927d-c134842fc327,trainer.ltda,available,42.98,46.98,high,low,7,namecheap,,,27/09/2026 13:32
 bc7be7c0-d356-411b-8c24-f5a66d439769,bagel.ltda,available,34.99,34.99,high,low,5,namesilo,,,
 51b34a2d-b718-4f4d-9e6c-ca6396b3a751,troll.ltda,available,34.99,34.99,high,low,5,namesilo,,,
-b8284f8a-c34f-4f59-93b7-16258661b166,barbary.ltda,available,34.99,34.99,high,low,7,namesilo,,,22/09/2026 04:32
+b8284f8a-c34f-4f59-93b7-16258661b166,barbary.ltda,available,34.99,34.99,medium,low,7,namesilo,,,22/09/2026 04:32
 5e852612-d1e2-4b11-a5dc-3e9eb46f692f,latish.ltda,available,34.99,34.99,medium,low,6,namesilo,,,22/08/2026 20:43
 08e3f769-2090-4596-bbc2-5e4f07fc27ce,backwater.ltda,available,34.99,34.99,high,low,9,namesilo,,,21/09/2026 16:21
 5816fbb6-b244-482f-b55f-195317852f45,chased.ltda,available,34.99,34.99,high,low,6,namesilo,,,27/09/2026 08:31
@@ -263,13 +270,14 @@ b6e6a7c0-3941-4e76-823e-a54501100d7d,deformed.ltda,available,34.99,34.99,medium,
 d1f88870-6561-4653-9bab-b501e8fe562e,honeymoons.ltda,available,34.99,34.99,medium,low,10,namesilo,,,20/09/2026 01:32
 00a8b8d6-d098-440c-b8c7-e302cbffdc38,according.ltda,available,34.99,34.99,high,low,9,namesilo,,,
 4f180702-d258-4399-89d0-f5253cc5cc93,circuitous.ltda,available,34.99,34.99,medium,low,10,namesilo,,,12/08/2026 08:18
-626b4b66-2cb4-492d-9a7a-ef3a392fe488,excitedly.ltda,available,34.99,34.99,high,low,9,namesilo,,,14/09/2026 16:52
+626b4b66-2cb4-492d-9a7a-ef3a392fe488,excitedly.ltda,available,34.99,34.99,medium,low,9,namesilo,,,14/09/2026 16:52
+434f9024-a7a6-4ca6-8e50-d7b42a5ede98,frameworks.ltda,available,34.99,34.99,high,low,10,namesilo,,,28/09/2026 00:38
 e23760a2-b65e-4a39-88a3-06e144424968,appeared.ltda,available,34.99,34.99,medium,low,8,namesilo,,,27/09/2026 10:53
 5806e932-6e1e-4033-8541-45c252e75f31,marin.ltda,available,34.99,34.99,high,low,5,namesilo,,,25/09/2026 15:45
 52f5e431-9ad0-4e2c-bae9-c6855969b8d4,proofed.ltda,available,34.99,34.99,medium,low,7,namesilo,,,09/09/2026 03:24
 dad51f5b-2375-4c6f-a7a9-5c13e61d0b1c,radish.ltda,available,42.98,46.98,high,low,6,namecheap,,,24/09/2026 20:53
-44ec6dfa-9381-4fc6-ad6b-31ffb11f036c,operation.ltda,premium,56.64,33.04,high,low,9,namesilo,,,25/09/2026 04:49
-9b4debf0-9ec6-4ea7-b9e1-655db41af38d,thee.ltda,available,34.99,34.99,high,low,4,namesilo,,,
+44ec6dfa-9381-4fc6-ad6b-31ffb11f036c,operation.ltda,premium,56.64,33.04,high,low,9,namesilo,,,28/09/2026 02:52
+9b4debf0-9ec6-4ea7-b9e1-655db41af38d,thee.ltda,available,34.99,34.99,medium,low,4,namesilo,,,
 c54b7637-9193-46fe-a234-05e8cea1ccfa,donation.ltda,available,34.99,34.99,high,low,8,namesilo,,,
 51f85f60-d023-478d-a8a1-cfe2f0da604e,optimally.ltda,available,42.98,46.98,medium,low,9,namecheap,,,15/09/2026 18:05
 8f59aba0-e3be-44ef-9426-b3dee3a19b59,hottish.ltda,available,34.99,34.99,medium,low,7,namesilo,,,21/08/2026 14:20
@@ -279,6 +287,8 @@ a7c176dc-1f5e-42d7-b083-62b48d3fb690,networks.ltda,premium,56.64,33.04,high,low,
 84193639-5914-4b27-9041-71c4864276f2,resilient.ltda,available,34.99,34.99,high,low,9,namesilo,,,10/08/2026 21:47
 c328757f-78ef-4b2d-b908-39b588809cfb,cargo.ltda,premium,66.3,66.3,high,low,5,namecheap,,,24/09/2026 12:56
 b5657441-bfd6-4c4a-88c1-a98da853fe38,pertinence.ltda,available,34.99,34.99,medium,low,10,namesilo,,,19/09/2026 21:52
+a67667df-491b-443e-a4ea-b507b74ab6d3,platoon.ltda,available,49.99,52.99,high,low,7,name.com,,,27/09/2026 15:14
+42cbba63-3f2b-4cbe-9c33-bbf27c9213ec,susanna.ltda,available,34.99,34.99,high,low,7,namesilo,,,28/09/2026 01:02
 4e2efb9d-09f4-4c22-a77c-d109dd1fc171,masterful.ltda,available,42.98,46.98,high,low,9,namecheap,,,23/09/2026 21:35
 2d5eb425-5033-486e-b076-6d19fa85add4,banteng.ltda,available,42.98,46.98,medium,low,7,namecheap,,,22/09/2026 03:14
 4c5cfcac-8b89-409c-9528-f23af8ccaa3f,scenic.ltda,available,34.99,34.99,high,low,6,namesilo,,,09/09/2026 22:58
@@ -296,7 +306,7 @@ d4a87378-ac84-43a9-bdb3-3926c3540e81,sectional.ltda,available,34.99,34.99,medium
 01b8df78-2118-4069-a2ba-72f387d717e7,screw.ltda,available,34.99,34.99,high,low,5,namesilo,,,18/08/2026 17:26
 a5cbfe8b-8f76-4657-b61f-2cd376b921fe,prices.ltda,premium,56.64,33.04,medium,low,6,namesilo,,,
 72c57e21-f666-4e25-a4d9-5f164fd2ff1b,allegation.ltda,available,34.99,34.99,high,low,10,namesilo,,,18/09/2026 10:09
-79158615-672a-4ea8-b504-a42c9544e3c4,pretence.ltda,available,34.99,34.99,high,low,8,namesilo,,,25/09/2026 16:31
+79158615-672a-4ea8-b504-a42c9544e3c4,pretence.ltda,available,34.99,34.99,medium,low,8,namesilo,,,25/09/2026 16:31
 92525269-3361-4604-ad4f-608d727773d6,infective.ltda,available,34.99,34.99,medium,low,9,namesilo,,,22/08/2026 04:14
 b28b2cbe-f323-49c1-a8f7-a77d4cc9b0aa,womanly.ltda,available,34.99,34.99,high,low,7,namesilo,,,13/09/2026 13:03
 94ae9470-d1ca-40dd-973b-4c7d41c198ba,aconite.ltda,available,34.99,34.99,medium,low,7,namesilo,,,17/09/2026 02:05
@@ -330,10 +340,10 @@ c0c56a2e-f834-40d2-94c0-19284a85d203,dads.ltda,available,34.99,34.99,high,low,4,
 d7bb5fa9-8c4d-4a16-9b7d-31b04cddfa34,middle.ltda,available,34.99,34.99,high,low,6,namesilo,,,23/09/2026 13:24
 461ef570-b4be-48b0-b8fe-d10b4de35fe5,sedgy.ltda,available,34.99,34.99,medium,low,5,namesilo,,,10/09/2026 01:38
 e1e23874-e486-48aa-9e5b-22f299ffd9dd,tool.ltda,premium,56.64,33.04,high,low,4,namesilo,,,24/09/2026 16:13
-8f45104b-63fb-471c-9e58-31e36b52c163,replace.ltda,available,34.99,34.99,high,low,7,namesilo,,,
+8f45104b-63fb-471c-9e58-31e36b52c163,replace.ltda,available,29.35,30.16,high,low,7,porkbun,,,28/09/2026 01:47
 d337ed4a-491e-4d1b-ac46-02ae81fd0aed,expendable.ltda,available,42.98,46.98,high,low,10,namecheap,,,17/08/2026 18:08
 92770771-3500-435f-a7c9-8c0448143056,icelandic.ltda,available,34.99,34.99,high,low,9,namesilo,,,21/08/2026 17:45
-5023570b-269b-4f23-bc7b-1d4241efbc96,technologies.ltda,premium,56.64,33.04,high,low,12,namesilo,,,25/09/2026 02:50
+5023570b-269b-4f23-bc7b-1d4241efbc96,technologies.ltda,premium,56.64,33.04,high,low,12,namesilo,,,28/09/2026 03:08
 267ea634-1047-461c-bcb7-d5a90987ee4f,matthews.ltda,available,42.98,46.98,high,low,8,namecheap,,,25/09/2026 19:36
 c138873d-4942-488b-85d3-0cb6236f6582,trunk.ltda,available,34.99,34.99,high,low,5,namesilo,,,21/09/2026 07:24
 66a3ae76-f928-4f71-80d6-40d14fb6c022,ourselves.ltda,available,34.99,34.99,medium,low,9,namesilo,,,27/09/2026 08:55
@@ -354,7 +364,8 @@ f49ec85b-5327-447c-b871-ce6e0397505c,binaural.ltda,available,34.99,34.99,medium,
 e1379551-5536-44f7-ba3c-d70884c640a1,put.ltda,available,34.99,34.99,high,low,3,namesilo,,,25/09/2026 13:13
 0fa853b8-ecf4-40c8-b298-51781e4143e4,taught.ltda,available,34.99,34.99,medium,low,6,namesilo,,,27/09/2026 02:04
 9c6ae2ff-cfa7-454a-b19c-49726ffabe49,sunstruck.ltda,available,34.99,34.99,medium,low,9,namesilo,,,11/09/2026 02:01
-0d4237da-5ce6-452d-8c04-b13e5d397910,engross.ltda,available,42.98,46.98,high,low,7,namecheap,,,10/09/2026 19:54
+0d4237da-5ce6-452d-8c04-b13e5d397910,engross.ltda,available,42.98,46.98,medium,low,7,namecheap,,,10/09/2026 19:54
+884ecd3d-4b9e-4ced-9cfb-fd81d6a91260,largest.ltda,available,34.99,34.99,high,low,7,namesilo,,,27/09/2026 21:38
 91204a88-a244-4104-befb-cf93bc05e73f,nutrients.ltda,available,34.99,34.99,medium,low,9,namesilo,,,21/09/2026 00:14
 5ce88b78-7e0b-41a7-aa2b-5450e6d578df,grid.ltda,available,42.98,46.98,high,medium,4,namecheap,,,24/09/2026 17:52
 2561c8af-777e-4157-9210-f7df1fcdfd01,huge.ltda,available,34.99,34.99,high,low,4,namesilo,,,25/09/2026 06:09
@@ -363,7 +374,8 @@ e1379551-5536-44f7-ba3c-d70884c640a1,put.ltda,available,34.99,34.99,high,low,3,n
 5b5093c2-8a57-465c-8e71-8a588e745958,tarragon.ltda,available,34.99,34.99,high,low,8,namesilo,,,20/09/2026 10:17
 50f55589-6ca7-48c9-a3aa-e7d8c0f54457,crew.ltda,available,42.98,46.98,high,high,4,namecheap,,,24/09/2026 19:22
 d224d210-830f-475b-88b2-55bd2a5cf7ee,ultimately.ltda,available,34.99,34.99,high,low,10,namesilo,,,
-d84803c0-0007-4acb-8fcc-a615e5cdd17a,durer.ltda,available,34.99,34.99,high,low,5,namesilo,,,18/09/2026 03:18
+0d899fe3-fcac-413e-a38c-e226d8525901,survival.ltda,available,34.99,34.99,high,low,8,namesilo,,,27/09/2026 14:56
+d84803c0-0007-4acb-8fcc-a615e5cdd17a,durer.ltda,available,34.99,34.99,medium,low,5,namesilo,,,18/09/2026 03:18
 658e62b4-2ac3-4f9b-966d-9e98ec7cf3be,unsigned.ltda,available,42.98,46.98,high,low,8,namecheap,,,12/09/2026 19:55
 e4e0f024-ef69-4cec-9875-2879585f84d7,offer.ltda,premium,66.3,66.3,high,low,5,namecheap,,,23/09/2026 13:36
 c4884ae9-48d6-4523-96f2-58f84ad89d69,razed.ltda,available,34.99,34.99,medium,low,5,namesilo,,,14/08/2026 01:24
@@ -405,12 +417,13 @@ c835b395-df9c-4f83-8488-33d3489316ef,romaic.ltda,available,42.98,46.98,high,low,
 d914079d-b40d-4292-8294-19c4377e297a,baudelaire.ltda,available,34.99,34.99,high,low,10,namesilo,,,22/09/2026 16:35
 ff36ba0d-f88c-4a44-9212-456eebaa5953,slipped.ltda,available,34.99,34.99,high,low,7,namesilo,,,18/09/2026 02:25
 bb75b189-e1ce-496a-a4e9-017cd098a3f3,subsequent.ltda,available,34.99,34.99,high,low,10,namesilo,,,11/09/2026 00:44
-30232ce7-8b8a-4963-9307-ed418064828a,health.ltda,premium,56.64,33.04,high,medium,6,namesilo,,,23/09/2026 08:29
+30232ce7-8b8a-4963-9307-ed418064828a,health.ltda,premium,52.8,30.18,high,medium,6,dynadot,,,28/09/2026 03:06
 29132ef6-aa6f-4ff9-8afb-b4f573378ba5,recaptured.ltda,available,42.98,46.98,medium,low,10,namecheap,,,18/09/2026 19:20
 f6568881-8879-40a4-9a30-a916dddfce44,wannabee.ltda,available,34.99,34.99,medium,low,8,namesilo,,,07/08/2026 05:22
 61ba856d-8086-4d7d-a58a-8297966c06d5,exhausting.ltda,available,42.98,46.98,medium,low,10,namecheap,,,14/08/2026 18:21
+019c7050-ab5c-4173-ac99-96c939aeac73,shade.ltda,available,55.99,55.99,high,low,5,godaddy,,,28/09/2026 02:00
 c3c83edb-91ac-4c8a-83af-5d701e41fd03,handbasket.ltda,available,34.99,34.99,medium,low,10,namesilo,,,22/09/2026 11:03
-478fcfa3-39cb-41cf-89a3-ce7c4eb085c1,useless.ltda,available,34.99,34.99,high,low,7,namesilo,,,
+478fcfa3-39cb-41cf-89a3-ce7c4eb085c1,useless.ltda,available,34.99,34.99,medium,low,7,namesilo,,,
 fae01507-2396-4bb8-a81e-856813d1baf8,quotes.ltda,available,42.98,46.98,high,low,6,namecheap,,,18/09/2026 21:27
 ee172aaf-d4cd-4c7d-8343-011771244c5c,breads.ltda,available,34.99,34.99,medium,low,6,namesilo,,,18/09/2026 04:07
 c0dfa51b-9b91-4913-9cd3-577f24ec50a8,awning.ltda,available,42.98,46.98,high,low,6,namecheap,,,21/09/2026 10:12
@@ -424,7 +437,7 @@ a5154da8-83d8-4154-91d0-ce7801574489,madrono.ltda,available,34.99,34.99,medium,l
 7d3beb6a-98e6-4d44-9174-c3fbe84b4b15,lesser.ltda,available,34.99,34.99,medium,low,6,namesilo,,,23/08/2026 00:24
 a5412e43-bb6f-434b-9fff-f945078992b2,killed.ltda,available,34.99,34.99,medium,low,6,namesilo,,,17/09/2026 12:17
 31aa531f-4045-41dd-ba96-64855ed327f0,addend.ltda,available,42.98,46.98,medium,low,6,namecheap,,,17/09/2026 06:41
-31403f0f-ce51-4993-9bcf-eff4e9c47eec,microbial.ltda,available,34.99,34.99,high,low,9,namesilo,,,08/09/2026 09:41
+31403f0f-ce51-4993-9bcf-eff4e9c47eec,microbial.ltda,available,34.99,34.99,medium,low,9,namesilo,,,08/09/2026 09:41
 51094bc1-4e25-4273-ba03-790622cb26f0,sideboard.ltda,available,34.99,34.99,high,low,9,namesilo,,,24/09/2026 10:55
 603a8c2a-c458-494f-a74f-6987ae3d10a1,iatrogenic.ltda,available,34.99,34.99,medium,low,10,namesilo,,,21/08/2026 17:30
 c85db966-0383-4878-b594-34642b80b246,frilled.ltda,available,34.99,34.99,medium,low,7,namesilo,,,18/08/2026 15:49
@@ -441,7 +454,7 @@ e089dcf6-7ac9-483e-a38a-39e0a86a31a2,mothafucka.ltda,available,34.99,34.99,mediu
 f7ac4791-b457-43dd-8407-37cb34c055a6,flavorsome.ltda,available,34.99,34.99,medium,low,10,namesilo,,,18/08/2026 07:12
 0b2c321f-f782-457c-a9a3-aceac9176468,valueable.ltda,available,34.99,34.99,medium,low,9,namesilo,,,
 3fa0e8b6-c55e-4cc2-bc86-3df48b3e4595,billboard.ltda,available,34.99,34.99,high,low,9,namesilo,,,
-20c95679-1bbe-449c-a721-d3146785a958,pangolin.ltda,available,34.99,34.99,high,low,8,namesilo,,,19/09/2026 12:39
+20c95679-1bbe-449c-a721-d3146785a958,pangolin.ltda,available,34.99,34.99,medium,low,8,namesilo,,,19/09/2026 12:39
 085c6032-d7ef-4f0b-81af-35d6ce614d51,antlered.ltda,available,34.99,34.99,medium,low,8,namesilo,,,05/08/2026 20:11
 d4086e0a-534c-4b0f-a887-91a50ab83dd9,cuneiform.ltda,available,34.99,34.99,medium,low,9,namesilo,,,13/08/2026 10:34
 43a63992-c176-4062-9150-366e43f03bae,bagful.ltda,available,42.98,46.98,medium,low,6,namecheap,,,21/09/2026 17:57
@@ -453,7 +466,7 @@ e3fcd34e-4b23-4b65-a008-ad376e3c4c8b,carbonyl.ltda,available,34.99,34.99,medium,
 d48fc2f5-a473-495d-ba9f-a148a910df95,unborn.ltda,available,34.99,34.99,high,low,6,namesilo,,,12/09/2026 02:23
 902f544e-6a94-4f96-917a-bc1cdf18baae,slouchy.ltda,available,42.98,46.98,medium,low,7,namecheap,,,19/09/2026 04:23
 289ae8e5-1df0-44e0-8ee2-8b9652ea0b52,splitting.ltda,available,34.99,34.99,high,low,9,namesilo,,,09/09/2026 14:01
-2da96ec9-1eb1-4dc9-9451-044ce3d3f5db,episcopal.ltda,available,34.99,34.99,high,low,9,namesilo,,,17/08/2026 11:09
+2da96ec9-1eb1-4dc9-9451-044ce3d3f5db,episcopal.ltda,available,34.99,34.99,medium,low,9,namesilo,,,17/08/2026 11:09
 2c5b6767-0494-4f8f-9f27-caa05600d2ce,imaginary.ltda,available,42.98,46.98,high,low,9,namecheap,,,21/08/2026 20:16
 15f42ed7-deb3-47af-81df-869e3309cde9,halfway.ltda,available,34.99,34.99,high,low,7,namesilo,,,11/08/2026 23:56
 659b6dd7-ebaf-420d-b4ef-89dbc28fbf7d,sustained.ltda,available,34.99,34.99,high,low,9,namesilo,,,18/08/2026 14:51
@@ -481,10 +494,11 @@ c84b9e82-eb96-45eb-94ec-dd166fba9063,hectically.ltda,available,42.98,46.98,mediu
 eaea4eb0-6222-4c21-a05f-00763a79e701,tannish.ltda,available,34.99,34.99,medium,low,7,namesilo,,,11/09/2026 08:03
 25695904-7ec9-47d3-b4a3-b8dd1004e70e,deplorable.ltda,available,42.98,46.98,medium,low,10,namecheap,,,12/08/2026 20:22
 4d9ea44f-d733-42ca-8ac2-08cdc62941df,gibber.ltda,available,34.99,34.99,medium,low,6,namesilo,,,23/09/2026 23:36
+77a70338-78ce-4188-8537-c13bd11b71b3,nicholas.ltda,available,34.99,34.99,high,low,8,namesilo,,,28/09/2026 02:29
 9a8c956a-7cdb-47ed-b74f-8f79e49ddb57,wedge.ltda,available,34.99,34.99,high,low,5,namesilo,,,
 283827a7-58f4-4f5e-9b32-839c519f9383,resentment.ltda,available,34.99,34.99,medium,low,10,namesilo,,,23/09/2026 23:03
 53b1b8bb-f989-451d-9734-64288d852279,anhedonia.ltda,available,34.99,34.99,medium,low,9,namesilo,,,19/09/2026 07:46
-cd3677ee-924e-40fd-9ad8-1947614b0bb7,angevin.ltda,available,42.98,46.98,high,low,7,namecheap,,,19/09/2026 06:06
+cd3677ee-924e-40fd-9ad8-1947614b0bb7,angevin.ltda,available,42.98,46.98,medium,low,7,namecheap,,,19/09/2026 06:06
 793e1c89-f174-4fb4-b770-7201f97047cf,vaned.ltda,available,34.99,34.99,medium,low,5,namesilo,,,13/09/2026 01:06
 fedc0395-49f4-4713-99ca-c0ccffda3d52,coeliac.ltda,available,34.99,34.99,medium,low,7,namesilo,,,12/08/2026 15:21
 4b13533f-64db-483a-9e72-232579d26e9b,dancing.ltda,premium,56.64,33.04,high,low,7,namesilo,,,25/09/2026 04:44
@@ -503,6 +517,7 @@ f442effc-bd38-475e-b1fb-b9a404127cb9,fog.ltda,available,34.99,34.99,high,low,3,n
 d4a3d4ca-6b2c-4c50-80d9-802452aaa39f,topped.ltda,available,42.98,46.98,medium,low,6,namecheap,,,11/09/2026 17:53
 2d908e12-93a8-4cf3-834e-cacf18917d35,prepared.ltda,available,34.99,34.99,high,low,8,namesilo,,,24/09/2026 11:20
 d3831808-20d4-4d21-a399-7a6d993cc40b,azt.ltda,available,42.98,46.98,high,low,3,namecheap,,,21/09/2026 11:33
+bcd0b1f7-7047-4ad6-a249-91d296a8dce2,carmichael.ltda,available,42.98,46.98,high,low,10,namecheap,,,28/09/2026 02:01
 e4e65de6-5233-47a7-9d1c-88974cb21072,finespun.ltda,available,34.99,34.99,medium,low,8,namesilo,,,18/08/2026 04:51
 57040d1c-21d4-4c9c-8a02-d3e00d5c35ad,parents.ltda,available,34.99,34.99,high,low,7,namesilo,,,
 7cb10db8-4a8a-4a8d-98c4-026ce2a3bfe6,drafty.ltda,available,42.98,46.98,medium,low,6,namecheap,,,14/08/2026 18:12
@@ -526,7 +541,7 @@ f765ce2b-7919-4cde-81c7-fb92e72c4687,models.ltda,premium,56.64,33.04,high,low,6,
 be8aac5d-c396-43ee-af5a-a2fab024b050,bathyal.ltda,available,34.99,34.99,low,low,7,namesilo,,,09/08/2026 01:34
 efb0e256-8a9d-4015-b619-00d18441b1c8,vagabond.ltda,available,42.98,46.98,high,low,8,namecheap,,,14/08/2026 19:16
 e4c6dca0-16f7-4ac4-a22d-3e4501561903,untaught.ltda,available,42.98,46.98,medium,low,8,namecheap,,,12/09/2026 18:56
-259bdb6d-22f8-409d-8df3-45db486ddcff,birthrate.ltda,available,42.98,46.98,high,low,9,namecheap,,,23/09/2026 20:56
+259bdb6d-22f8-409d-8df3-45db486ddcff,birthrate.ltda,available,42.98,46.98,medium,low,9,namecheap,,,23/09/2026 20:56
 94a54417-a570-430b-851d-4faaaf2453fc,tetanic.ltda,available,34.99,34.99,medium,low,7,namesilo,,,11/09/2026 12:08
 78219018-6fd4-4585-b576-4150baf336bf,fueled.ltda,available,34.99,34.99,high,low,6,namesilo,,,18/08/2026 17:37
 0cdb239d-935e-419c-990f-f09947a9c573,nonplus.ltda,available,34.99,34.99,medium,low,7,namesilo,,,21/09/2026 17:34
@@ -567,8 +582,8 @@ c180c5bb-51c8-4133-8cc1-8337a0c10017,inca.ltda,available,34.99,34.99,high,low,4,
 58696726-edd6-4dfb-b8cc-d3dfd541f199,whop.ltda,available,34.99,34.99,high,low,4,namesilo,,,22/09/2026 10:29
 82caa13b-8d28-4351-99fa-fb67cc4ef3f6,formally.ltda,available,34.99,34.99,high,low,8,namesilo,,,14/09/2026 19:42
 6524a1f4-2029-465b-84f8-19427fff0ab1,chartreuse.ltda,available,34.99,34.99,medium,low,10,namesilo,,,12/08/2026 02:57
-9a5c32d3-357f-4642-ae5d-c97c765f85fb,grinning.ltda,available,34.99,34.99,high,low,8,namesilo,,,
-f93c189c-f5c3-40e4-82ea-2f75226e5264,grimly.ltda,available,34.99,34.99,high,low,6,namesilo,,,14/09/2026 22:25
+9a5c32d3-357f-4642-ae5d-c97c765f85fb,grinning.ltda,available,34.99,34.99,high,low,8,namesilo,,,27/09/2026 23:14
+f93c189c-f5c3-40e4-82ea-2f75226e5264,grimly.ltda,available,34.99,34.99,medium,low,6,namesilo,,,14/09/2026 22:25
 697e758c-02b4-445f-b851-bd41797ad28d,adjutant.ltda,available,34.99,34.99,high,low,8,namesilo,,,17/09/2026 08:35
 6bf2bc85-dbff-4146-a843-e38aa0f41101,massages.ltda,available,34.99,34.99,medium,low,8,namesilo,,,20/09/2026 09:22
 cbfa34c7-de20-4e94-b2b5-54753620552c,cpr.ltda,available,34.99,34.99,high,low,3,namesilo,,,24/09/2026 12:51
@@ -578,12 +593,14 @@ b37e36e7-10bb-4561-8bd8-d6fb662ff951,once.ltda,available,34.99,34.99,high,low,4,
 c32c138b-a9a8-43b5-a28b-a1448f574335,aperture.ltda,available,42.98,46.98,high,low,8,namecheap,,,19/09/2026 16:35
 38b95701-a617-452b-ac50-bf4c54f6290e,contest.ltda,available,34.99,34.99,high,low,7,namesilo,,,
 16a06e3c-bff1-4af8-930d-2067a866d70b,sort.ltda,available,42.98,46.98,high,low,4,namecheap,,,25/09/2026 12:43
-a8b7e116-bb9d-4814-a98b-38cb6820743c,quarter.ltda,available,34.99,34.99,high,low,7,namesilo,,,
+a8b7e116-bb9d-4814-a98b-38cb6820743c,quarter.ltda,available,34.99,34.99,high,low,7,namesilo,,,28/09/2026 00:50
 30d62619-0da8-4525-98a3-1fdd66c322c0,adaptor.ltda,available,42.98,46.98,high,low,7,namecheap,,,17/09/2026 06:32
 3239340f-bda2-4d2d-89c0-00d48356e673,numinous.ltda,available,34.99,34.99,medium,low,8,namesilo,,,03/09/2026 23:01
 a532910d-b006-43d0-98b2-c5fd0ae6f16d,chorale.ltda,available,34.99,34.99,high,low,7,namesilo,,,12/08/2026 07:04
 73fd3073-40b7-4c69-8b33-2119e8b2d9d4,center.ltda,premium,66.3,66.3,high,low,6,namecheap,,,23/09/2026 13:19
 dc33e523-1cb1-424b-afce-4901b83e82fa,imitative.ltda,available,34.99,34.99,medium,low,9,namesilo,,,13/08/2026 03:34
+25d645e7-1cc5-4e12-a2f5-1550b0b74d73,principle.ltda,available,34.99,34.99,high,low,9,namesilo,,,27/09/2026 15:26
+2767471f-527b-462e-af40-d3bcd4608fe7,claimed.ltda,available,34.99,34.99,medium,low,7,namesilo,,,27/09/2026 23:56
 f9c70504-f3b0-4631-8a02-c7835618579b,fourteen.ltda,available,42.98,46.98,high,low,8,namecheap,,,21/09/2026 11:38
 321d1323-f23a-48cb-8e1b-40ef31d73313,jokingly.ltda,available,34.99,34.99,medium,low,8,namesilo,,,14/09/2026 17:23
 97877d42-63d1-4d95-aaa0-3500dd2f7aa6,toxic.ltda,available,34.99,34.99,high,low,5,namesilo,,,
@@ -598,6 +615,7 @@ b97aca4e-19b8-4c93-95f9-df5750b14c54,guinness.ltda,available,34.99,34.99,high,lo
 cefdc164-f7e5-483f-a9d3-370f77cb1d1e,agua.ltda,premium,66.3,66.3,high,low,4,namecheap,,,17/09/2026 20:04
 45608432-a347-4131-8c8f-1c14bcf522e1,ideas.ltda,available,34.99,34.99,high,low,5,namesilo,,,
 df80a0fb-de2e-4ba3-843c-b8d6025c15cd,boolean.ltda,available,42.98,46.98,high,low,7,namecheap,,,10/08/2026 19:12
+91ee0d40-0619-4165-b6a9-d0e9bfec5070,hartman.ltda,available,42.98,46.98,high,low,7,namecheap,,,28/09/2026 00:35
 63a8efb8-3f84-4bac-a4e3-a5c774c04076,vigilantly.ltda,available,49.99,52.99,medium,low,10,name.com,,,16/09/2026 10:54
 8503603f-1d1e-4a0b-85e5-9872ef550e9b,autonomic.ltda,available,34.99,34.99,high,low,9,namesilo,,,07/08/2026 20:52
 fbfcca17-25c8-438d-b06e-86db79eb9702,multiply.ltda,available,34.99,34.99,high,low,8,namesilo,,,15/09/2026 15:37
@@ -624,7 +642,7 @@ d0ddda5e-73fe-44ff-99e4-cceafba8abdc,primes.ltda,available,42.98,46.98,medium,lo
 ea237d7a-a33a-4564-a58c-02ea88959533,intact.ltda,available,34.99,34.99,high,low,6,namesilo,,,22/08/2026 07:49
 313a53d2-b858-4ed4-82ae-c500cc7dfb03,pegs.ltda,available,34.99,34.99,medium,low,4,namesilo,,,20/09/2026 09:49
 a82e4aef-c747-4512-b0bc-473be67884ac,accessible.ltda,available,34.99,34.99,high,low,10,namesilo,,,21/09/2026 15:38
-34e4815b-df58-4f9b-91cb-2a9edb5c9aa9,cultivator.ltda,available,42.98,46.98,high,low,10,namecheap,,,17/09/2026 19:20
+34e4815b-df58-4f9b-91cb-2a9edb5c9aa9,cultivator.ltda,available,42.98,46.98,medium,low,10,namecheap,,,17/09/2026 19:20
 7fbc5ee6-e20e-4f7c-8540-d80079b2088d,heal.ltda,available,46.98,,high,low,4,namecheap,,,
 0a44bff9-4875-48ce-8e1a-beaeecbe2abc,wickedness.ltda,available,34.99,34.99,medium,low,10,namesilo,,,17/08/2026 15:06
 904acccf-864e-4c65-b916-dbb843d0fd0e,downturn.ltda,available,34.99,34.99,medium,low,8,namesilo,,,24/09/2026 23:42
@@ -634,7 +652,7 @@ df7a10b7-47e7-45f3-8ea1-5b247516f9b1,lutzen.ltda,available,34.99,34.99,medium,lo
 bd261975-1f02-45ab-88d9-d210b9fe5043,length.ltda,available,34.99,34.99,high,low,6,namesilo,,,
 675176ff-b30c-4518-b7dc-2be421ed7cfb,philippi.ltda,available,42.98,46.98,medium,low,8,namecheap,,,22/09/2026 15:38
 e5a01c24-b6e0-43e6-8764-1b05a38c1502,bearish.ltda,available,34.99,34.99,medium,low,7,namesilo,,,09/08/2026 04:48
-1be10a7e-8421-4d1b-98a1-af7d4ea9da59,advancer.ltda,available,34.99,34.99,high,low,8,namesilo,,,17/09/2026 10:28
+1be10a7e-8421-4d1b-98a1-af7d4ea9da59,advancer.ltda,available,34.99,34.99,medium,low,8,namesilo,,,17/09/2026 10:28
 a6c7a7dc-2049-4294-b319-eb3c6a051849,unshared.ltda,available,34.99,34.99,medium,low,8,namesilo,,,12/09/2026 19:38
 c297fd78-7df4-40ff-a668-10a517a0325a,extrovert.ltda,available,42.98,46.98,high,low,9,namecheap,,,17/08/2026 19:27
 f9715ae1-a2a0-4c13-942d-48fb5da2f041,poll.ltda,available,34.99,34.99,high,low,4,namesilo,,,
@@ -646,8 +664,8 @@ a52eda54-6dea-468f-b1d9-7005b0e5d711,garcia.ltda,available,42.98,46.98,high,low,
 440dbb93-90dd-40ff-9caf-d237ec157ec4,gulf.ltda,available,34.99,34.99,high,low,4,namesilo,,,
 0456ba84-b14c-4f61-bd6f-462f5e693a3f,accurate.ltda,available,34.99,34.99,high,low,8,namesilo,,,21/09/2026 15:59
 f7a70fec-82ce-499f-9b7b-912acb4e9956,zoological.ltda,available,34.99,34.99,high,low,10,namesilo,,,13/09/2026 15:33
-3393a8fd-7c9b-4970-bbdf-f2a3d5a55697,revealing.ltda,available,46.98,,high,low,9,namecheap,,,
-8a3df7f6-be0b-4715-88a9-a4e14a847e75,shuttered.ltda,available,34.99,34.99,high,low,9,namesilo,,,10/09/2026 07:21
+3393a8fd-7c9b-4970-bbdf-f2a3d5a55697,revealing.ltda,available,42.98,46.98,high,low,9,namecheap,,,27/09/2026 13:41
+8a3df7f6-be0b-4715-88a9-a4e14a847e75,shuttered.ltda,available,34.99,34.99,medium,low,9,namesilo,,,10/09/2026 07:21
 ad879f92-f611-4d61-a6a7-28c3771d1b5e,acetous.ltda,available,34.99,34.99,medium,low,7,namesilo,,,
 ddb4b43c-83be-4b6f-bbe3-34cfd0b34d88,epochal.ltda,available,34.99,34.99,medium,low,7,namesilo,,,17/08/2026 11:24
 db0bc237-f434-420d-bede-dd581c0ecc99,auntie.ltda,available,34.99,34.99,high,low,6,namesilo,,,21/09/2026 04:11
@@ -665,12 +683,14 @@ dc57ff19-8042-44f0-b7d6-ace43f899f72,affirmer.ltda,available,34.99,34.99,medium,
 fe639974-1c3a-40e3-b72a-2c072a643490,barbed.ltda,available,34.99,34.99,medium,low,6,namesilo,,,08/08/2026 16:36
 d749aee4-2701-406e-98b8-c162711c3e52,albino.ltda,available,42.98,46.98,high,low,6,namecheap,,,18/09/2026 02:58
 0dbc43f2-81ce-4245-82eb-dc133e1f398c,healthy.ltda,available,34.99,34.99,high,low,7,namesilo,,,24/09/2026 22:43
-4ac614e0-c848-4541-bb39-f6683f585f1a,minus.ltda,available,34.99,34.99,high,low,5,namesilo,,,25/08/2026 00:55
-13f9ab68-d1f2-4766-9a4e-bf8b94b0ff41,retired.ltda,available,46.98,,high,low,7,namecheap,,,
+4ac614e0-c848-4541-bb39-f6683f585f1a,minus.ltda,available,34.99,34.99,medium,low,5,namesilo,,,25/08/2026 00:55
+c5f75b6e-bea4-4233-8f2d-34367699b62a,kobe.ltda,available,55.99,55.99,high,low,4,godaddy,,,28/09/2026 02:14
+13f9ab68-d1f2-4766-9a4e-bf8b94b0ff41,retired.ltda,available,29.35,30.16,high,low,7,porkbun,,,27/09/2026 13:17
 3f7b0ef7-97b3-4b5d-a97c-2eb23367df02,betelgeuse.ltda,available,34.99,34.99,medium,low,10,namesilo,,,18/09/2026 13:39
 582eea97-7c24-4c61-84e1-025e0fa34791,byword.ltda,available,34.99,34.99,medium,low,6,namesilo,,,17/09/2026 06:09
-dd0586b7-8382-4778-8ac2-083517ef1bf3,humbug.ltda,available,34.99,34.99,high,low,6,namesilo,,,21/09/2026 23:48
+dd0586b7-8382-4778-8ac2-083517ef1bf3,humbug.ltda,available,34.99,34.99,medium,low,6,namesilo,,,21/09/2026 23:48
 5c652b33-a5b2-4d79-97ca-7e06651a708c,planetal.ltda,available,42.98,46.98,medium,low,8,namecheap,,,08/09/2026 20:42
+d9319e90-8cf9-45c3-80c7-045427ffd80e,painter.ltda,available,34.99,34.99,high,low,7,namesilo,,,27/09/2026 12:44
 e7e9a726-83e6-4649-962a-978a5e810782,made.ltda,premium,56.64,33.04,high,medium,4,namesilo,,,25/09/2026 16:01
 e4c55ef9-0a8f-46ec-97d9-efb0b908200a,cover.ltda,available,34.99,34.99,high,low,5,namesilo,,,22/09/2026 21:52
 63e47657-f5f5-403e-8525-5303803f4a64,particles.ltda,available,34.99,34.99,medium,low,9,namesilo,,,
@@ -689,10 +709,10 @@ b8000955-128e-421a-b81f-7f45c2966f13,cashew.ltda,available,42.98,46.98,high,low,
 6bfceea7-c1e6-4989-9ddf-c8475aee9ec5,vibrant.ltda,available,34.99,34.99,high,low,7,namesilo,,,13/09/2026 05:05
 303cd37d-e23d-4cd9-bc35-335d4adf4332,abls.ltda,available,42.98,46.98,medium,low,4,namecheap,,,16/09/2026 16:13
 71390fd0-3651-4fd8-a306-f88f05d616bd,legged.ltda,available,34.99,34.99,high,low,6,namesilo,,,22/08/2026 22:55
-5d318fd6-e225-46f3-8f1a-f80cacaaca6c,overgrown.ltda,available,34.99,34.99,high,low,9,namesilo,,,04/09/2026 20:42
+5d318fd6-e225-46f3-8f1a-f80cacaaca6c,overgrown.ltda,available,34.99,34.99,medium,low,9,namesilo,,,04/09/2026 20:42
 43e4c74c-1a0f-40db-a71c-3feeaa9167bf,blackwater.ltda,available,34.99,34.99,medium,low,10,namesilo,,,24/09/2026 03:24
 5a4adb7c-c745-4df6-8926-eba5e160a4af,hemal.ltda,available,42.98,46.98,medium,low,5,namecheap,,,20/08/2026 21:41
-6c18177f-6ae3-48f6-91d3-ce0b8b5e3592,fitter.ltda,available,34.99,34.99,high,low,6,namesilo,,,18/08/2026 05:48
+6c18177f-6ae3-48f6-91d3-ce0b8b5e3592,fitter.ltda,available,34.99,34.99,medium,low,6,namesilo,,,18/08/2026 05:48
 4f14d0c2-0215-4631-a8df-9c279e274f75,tympanic.ltda,available,34.99,34.99,medium,low,8,namesilo,,,11/09/2026 22:25
 9ee34b08-5726-4d1d-9789-338012f17dfb,goodman.ltda,available,34.99,34.99,high,low,7,namesilo,,,23/09/2026 08:16
 4f7eca2e-a157-4333-8127-d9af1259a33c,arava.ltda,available,34.99,34.99,medium,low,5,namesilo,,,20/09/2026 00:28
@@ -700,7 +720,7 @@ b8000955-128e-421a-b81f-7f45c2966f13,cashew.ltda,available,42.98,46.98,high,low,
 f006205e-2c26-4db1-b1ca-095e9ff137bd,banish.ltda,available,42.98,46.98,high,low,6,namecheap,,,24/09/2026 01:57
 d93a62aa-88c8-4770-8659-68ab3e6eb9e3,nobly.ltda,available,34.99,34.99,medium,low,5,namesilo,,,15/09/2026 16:42
 7a397736-cf7c-4c7d-bf02-858828cb32ab,smokeless.ltda,available,34.99,34.99,high,low,9,namesilo,,,10/09/2026 11:57
-027043dc-394c-44e2-8a4b-79b8dc0ea8c6,begonia.ltda,available,34.99,34.99,high,low,7,namesilo,,,23/09/2026 02:28
+027043dc-394c-44e2-8a4b-79b8dc0ea8c6,begonia.ltda,available,34.99,34.99,medium,low,7,namesilo,,,23/09/2026 02:28
 52f89ca3-6c7f-419e-82c3-872f0b5d2aeb,ambitious.ltda,available,34.99,34.99,high,low,9,namesilo,,,22/09/2026 03:59
 a80fa385-ede1-4449-b509-5241a0fe5504,realty.ltda,premium,60,35,high,low,6,name.com,,,21/08/2026 21:24
 9998d65c-589e-44a4-a7a3-8d17f8645edb,bloomfield.ltda,available,34.99,34.99,high,low,10,namesilo,,,25/09/2026 21:57
@@ -714,7 +734,7 @@ e424bd14-6697-42c0-900b-bff7cd442120,bite.ltda,available,34.99,34.99,high,low,4,
 be55c716-4aab-4da4-9db5-234e41ad49ed,gordon.ltda,available,34.99,34.99,high,low,6,namesilo,,,25/09/2026 11:43
 d59689dc-5247-458b-aa83-3e0f100384ae,ovine.ltda,available,34.99,34.99,medium,low,5,namesilo,,,04/09/2026 22:07
 14d15d4d-376a-4841-bc6e-c3bcafb418c7,maleficent.ltda,available,34.99,34.99,medium,low,10,namesilo,,,24/08/2026 13:58
-3162ec4d-17e2-4ec6-8465-b4314750acec,adversary.ltda,available,42.98,46.98,high,low,9,namecheap,,,17/09/2026 10:44
+3162ec4d-17e2-4ec6-8465-b4314750acec,adversary.ltda,available,42.98,46.98,medium,low,9,namecheap,,,17/09/2026 10:44
 8f67e22a-2420-4199-9e2e-4ab7c245ec3d,tales.ltda,available,34.99,34.99,high,low,5,namesilo,,,18/09/2026 16:46
 7226aa0f-9678-498f-9ede-f436022b1640,stanley.ltda,available,34.99,34.99,high,low,7,namesilo,,,25/09/2026 06:08
 714cc6b9-db89-464d-8bdd-a907fafd8fe7,blench.ltda,available,34.99,34.99,medium,low,6,namesilo,,,04/09/2026 23:29
@@ -724,11 +744,12 @@ d59689dc-5247-458b-aa83-3e0f100384ae,ovine.ltda,available,34.99,34.99,medium,low
 3011ebde-a0e3-4e65-9a3d-ca385722f069,organismic.ltda,available,42.98,46.98,medium,low,10,namecheap,,,04/09/2026 17:49
 8b79f08d-6c25-4dc3-aec0-c362ac4f1232,strung.ltda,available,34.99,34.99,medium,low,6,namesilo,,,10/09/2026 22:54
 a00c8913-4f3f-4e93-a2f4-ef0d07441508,dispatching.ltda,available,34.99,34.99,high,low,11,namesilo,,,
-24ee1b7e-0fdf-44a3-8829-873c1b766c12,getatable.ltda,available,34.99,34.99,high,low,9,namesilo,,,18/08/2026 23:00
+24ee1b7e-0fdf-44a3-8829-873c1b766c12,getatable.ltda,available,34.99,34.99,medium,low,9,namesilo,,,18/08/2026 23:00
 2f3b8de2-7734-4e4e-b827-90549ab14878,bulla.ltda,available,34.99,34.99,medium,low,5,namesilo,,,24/09/2026 05:20
 48d80f2e-d211-4e79-a3ae-b04265e6014e,pendant.ltda,available,34.99,34.99,high,low,7,namesilo,,,08/09/2026 14:12
 9ed7a5af-424a-4c9b-8b86-70a3e7c4709a,ascites.ltda,available,34.99,34.99,medium,low,7,namesilo,,,20/09/2026 13:17
 75abe079-90e5-4938-a029-973ef6ceb540,crosstown.ltda,available,34.99,34.99,medium,low,9,namesilo,,,13/08/2026 08:13
+7bc8adf5-1be5-486c-a58d-5b7f677aca9d,paperwork.ltda,available,42.98,46.98,high,low,9,namecheap,,,28/09/2026 02:53
 e56bee99-be24-4c2b-813c-e441443edc60,hanukkah.ltda,available,34.99,34.99,high,low,8,namesilo,,,
 2c919fd7-95d0-45c3-85c3-0eb84c8268c6,redberry.ltda,available,34.99,34.99,medium,low,8,namesilo,,,17/09/2026 04:20
 94a2432d-0586-41a6-9cab-d61ddc95837d,engagement.ltda,available,34.99,34.99,high,low,10,namesilo,,,25/09/2026 10:18
@@ -769,7 +790,7 @@ d8afe736-4f69-4e36-946c-b9314a94c4ac,truant.ltda,available,34.99,34.99,high,low,
 eaa24aa7-5565-45be-b610-43acd00abf9e,pallid.ltda,available,34.99,34.99,medium,low,6,namesilo,,,04/09/2026 23:51
 0abb7b66-9d14-4be7-979e-1fe49959750b,rhythm.ltda,available,34.99,34.99,high,low,6,namesilo,,,25/09/2026 22:02
 afdff279-892a-4a01-b733-39bcabbc6e5f,narrowly.ltda,available,34.99,34.99,medium,low,8,namesilo,,,15/09/2026 16:08
-27bd9f8c-3076-4188-b928-cf2c222e0411,malawian.ltda,available,34.99,34.99,high,low,8,namesilo,,,24/08/2026 13:40
+27bd9f8c-3076-4188-b928-cf2c222e0411,malawian.ltda,available,34.99,34.99,medium,low,8,namesilo,,,24/08/2026 13:40
 99b9b161-23f3-442f-ac64-51bd8cbb0d28,patent.ltda,available,34.99,34.99,high,low,6,namesilo,,,06/08/2026 05:19
 6d666414-4c0d-488d-8c56-3fd9d2bfc8da,uranium.ltda,available,34.99,34.99,high,low,7,namesilo,,,21/09/2026 00:11
 4a27a448-0d45-440c-814f-5cbf57b4c0a6,seize.ltda,available,42.98,46.98,high,low,5,namecheap,,,23/09/2026 20:08
@@ -784,6 +805,7 @@ a99f0c1d-6ab4-449b-a4d5-cf9b775fc715,unbound.ltda,available,34.99,34.99,high,low
 f353c7e2-60e2-413e-9112-bf5e70c579bf,lucrative.ltda,available,34.99,34.99,high,low,9,namesilo,,,25/09/2026 15:34
 8a3ee4a8-5c96-4005-9362-be6221e443bb,naval.ltda,available,34.99,34.99,high,low,5,namesilo,,,03/09/2026 14:07
 10ee7d22-9ce4-43ca-bffb-be77862ae3a8,bragging.ltda,available,34.99,34.99,medium,low,8,namesilo,,,11/08/2026 00:54
+defdeab3-fb8d-49ce-9cdb-24660b747420,salvation.ltda,available,30.18,30.18,high,low,9,dynadot,,,28/09/2026 03:00
 b92246f6-dd5c-4efc-8449-30ff02105171,unsealed.ltda,available,42.98,46.98,medium,low,8,namecheap,,,12/09/2026 19:07
 413908da-fa53-47dc-95ad-e34d8083b7e1,cloaked.ltda,available,34.99,34.99,high,low,7,namesilo,,,12/08/2026 11:28
 85b6f1cc-e0a4-454f-b2d3-6256e6089822,partially.ltda,available,42.98,46.98,high,low,9,namecheap,,,15/09/2026 18:59
@@ -796,21 +818,21 @@ b92246f6-dd5c-4efc-8449-30ff02105171,unsealed.ltda,available,42.98,46.98,medium,
 f03c8bf7-e595-48d5-8724-c5dbebbe241f,consulate.ltda,available,34.99,34.99,high,low,9,namesilo,,,24/09/2026 17:37
 45d384dc-4dab-4644-9837-446fe1dbe7d5,wavering.ltda,available,34.99,34.99,medium,low,8,namesilo,,,13/09/2026 00:41
 255fb4e7-c317-4eb9-a039-b3a645f3cef4,speeding.ltda,available,34.99,34.99,high,low,8,namesilo,,,25/09/2026 06:47
-b4997042-d86f-40ce-8b77-7c474ff85cfa,ironed.ltda,available,34.99,34.99,high,low,6,namesilo,,,22/08/2026 10:04
+b4997042-d86f-40ce-8b77-7c474ff85cfa,ironed.ltda,available,34.99,34.99,medium,low,6,namesilo,,,22/08/2026 10:04
 fa4b41b8-eb82-4146-b565-123396d820f9,cymry.ltda,available,34.99,34.99,medium,low,5,namesilo,,,13/09/2026 10:45
 b5fb2853-a5ff-4924-b657-0d3a8b186a1c,beheading.ltda,available,34.99,34.99,medium,low,9,namesilo,,,23/09/2026 03:20
 fd4ef25d-71f9-4268-af87-7bafec8bbe27,danny.ltda,available,34.99,34.99,medium,low,5,namesilo,,,25/09/2026 17:19
 ed7775e5-9629-4425-b7c6-83dbc43dc880,broad.ltda,available,34.99,34.99,high,low,5,namesilo,,,19/09/2026 06:03
 8429f67c-3d6f-40c8-a7e7-9150b9007681,infertile.ltda,available,34.99,34.99,medium,low,9,namesilo,,,22/08/2026 04:24
 3f2f3077-5188-4411-961f-b9928c7cf52e,leopold.ltda,available,34.99,34.99,high,low,7,namesilo,,,25/09/2026 15:14
-d245872e-eef3-404a-b993-71e9b6602959,fried.ltda,available,34.99,34.99,high,low,5,namesilo,,,13/08/2026 22:34
+d245872e-eef3-404a-b993-71e9b6602959,fried.ltda,available,34.99,34.99,medium,low,5,namesilo,,,13/08/2026 22:34
 8b6ef242-6f81-4c75-83c8-ada0dee7da6b,amusive.ltda,available,42.98,46.98,medium,low,7,namecheap,,,
 e457c2f4-988f-478d-af7e-77831a283ef8,message.ltda,available,34.99,34.99,high,low,7,namesilo,,,08/09/2026 08:47
 22189dc3-f779-496e-893a-aa87604a1781,emphatic.ltda,available,34.99,34.99,high,low,8,namesilo,,,16/08/2026 16:45
 1b984c33-1cbe-4fef-aac4-d77601528a77,gilt.ltda,available,34.99,34.99,high,low,4,namesilo,,,18/08/2026 23:34
 bdd1cb1c-aff9-4ffd-abdb-e24f4323e210,anomie.ltda,available,34.99,34.99,medium,low,6,namesilo,,,19/09/2026 11:29
 c9063f3c-a47c-43a7-961d-71090392f939,vestal.ltda,available,34.99,34.99,medium,low,6,namesilo,,,13/09/2026 04:47
-22299c68-c384-474a-b8ce-c19ec179158b,corrugated.ltda,available,34.99,34.99,high,low,10,namesilo,,,13/08/2026 02:13
+22299c68-c384-474a-b8ce-c19ec179158b,corrugated.ltda,available,34.99,34.99,medium,low,10,namesilo,,,13/08/2026 02:13
 fb419d75-4cfd-4e23-9e9b-3f1cb2a7b61d,waking.ltda,available,34.99,34.99,high,low,6,namesilo,,,13/09/2026 07:47
 406cf1eb-cbc2-459a-9f85-7aa4a6a4d853,provoke.ltda,available,34.99,34.99,high,low,7,namesilo,,,
 fa899be9-b288-4073-b031-4d520367c9ab,pent.ltda,available,34.99,34.99,medium,low,4,namesilo,,,08/09/2026 14:42
@@ -859,12 +881,14 @@ e9deed86-5315-4ba2-b974-3617cec2b807,nocent.ltda,available,42.98,46.98,medium,lo
 8f485e72-aeeb-4bde-bd96-b5aeb803aed1,pattern.ltda,available,34.99,34.99,high,low,7,namesilo,,,25/08/2026 02:49
 df65671f-652e-4a92-a1a4-0495101d98c3,coruscant.ltda,available,34.99,34.99,medium,low,9,namesilo,,,
 52024c6e-745c-4290-acda-6820a6883b99,alhakim.ltda,available,34.99,34.99,medium,low,8,namesilo,,,18/09/2026 00:38
+1bbfcab5-4101-416f-8d6f-881a7b0e2db1,internets.ltda,available,34.99,34.99,medium,low,9,namesilo,,,28/09/2026 02:35
 951320fb-e945-4c5d-97d4-412c09de71bd,altair.ltda,available,34.99,34.99,medium,low,6,namesilo,,,18/09/2026 14:31
 4f639c25-8e42-445e-b941-9cfbb5f5feae,pudgy.ltda,available,34.99,34.99,medium,low,5,namesilo,,,08/09/2026 22:24
 fdada9d9-0519-4827-b9c9-a886e911ca1e,heatless.ltda,available,34.99,34.99,medium,low,8,namesilo,,,21/08/2026 02:27
 111f0e10-fc7d-4d32-945d-1f48d63e5616,toot.ltda,available,34.99,34.99,high,low,4,namesilo,,,23/09/2026 01:30
 a4c3492a-d947-4ad2-be45-87b6f09934fb,ameer.ltda,available,42.98,46.98,medium,low,5,namecheap,,,18/09/2026 18:04
 b79e09ac-a234-40b7-8e86-335837490c42,broadly.ltda,available,34.99,34.99,high,low,7,namesilo,,,
+fff02e63-0645-4770-b154-40b9763c8d3a,nord.ltda,available,29.35,30.16,high,low,4,porkbun,,,27/09/2026 18:56
 007fdd91-9e22-4f99-90aa-477f42b4c3c8,flowering.ltda,available,34.99,34.99,high,low,9,namesilo,,,18/08/2026 09:02
 27d8b5cc-6874-4f00-8cb3-366432f4c524,apodemus.ltda,available,42.98,46.98,medium,low,8,namecheap,,,19/09/2026 18:19
 81d44483-8df3-4456-973a-1ee1d1763249,instance.ltda,available,34.99,34.99,high,low,8,namesilo,,,25/09/2026 22:06
@@ -891,7 +915,7 @@ aa98025c-0124-4eb9-9535-898500357a52,ohmic.ltda,available,34.99,34.99,medium,low
 a5db3a4f-9a81-4f18-aba5-5ebf1b8643e0,sail.ltda,available,46.98,,high,low,4,namecheap,,,
 4d6c6e9a-3d27-4966-9b68-b1a80473da80,reach.ltda,available,34.99,34.99,high,medium,5,namesilo,,,18/09/2026 16:46
 dd86cd23-ba82-464e-bd1a-6971ae4a431b,parenting.ltda,available,34.99,34.99,high,low,9,namesilo,,,
-02e42111-3cbf-4b83-a285-1b68a1398de8,anatolian.ltda,available,34.99,34.99,high,low,9,namesilo,,,19/09/2026 03:29
+02e42111-3cbf-4b83-a285-1b68a1398de8,anatolian.ltda,available,34.99,34.99,medium,low,9,namesilo,,,19/09/2026 03:29
 f9bae82a-ccee-43c4-8bff-a1e5c5b03478,musical.ltda,available,42.98,46.98,high,low,7,namecheap,,,25/09/2026 19:12
 1cccc6a6-62d2-4dc6-a3fc-2ed5d102caf0,taxi.ltda,premium,66.3,66.3,high,low,4,namecheap,,,24/09/2026 11:29
 ed8b4f5d-a359-4e46-a2ad-2904b861a159,collide.ltda,available,34.99,34.99,high,low,7,namesilo,,,24/09/2026 15:18
@@ -905,10 +929,11 @@ baeaa749-6b7f-4bc2-8b23-d4bccd58c13d,anova.ltda,available,34.99,34.99,high,low,5
 006a4069-b1e2-4a5a-a18e-283969b29acc,plaster.ltda,available,34.99,34.99,medium,low,7,namesilo,,,17/09/2026 07:59
 dfac501c-2dc2-48a2-81ac-bb863bfa7fca,draft.ltda,available,34.99,34.99,high,low,5,namesilo,,,23/09/2026 16:03
 cfb5ed19-60ab-4d8a-9c60-7dc3b2b764ba,romantic.ltda,available,34.99,34.99,high,low,8,namesilo,,,22/09/2026 03:28
-9d040492-160d-422c-8a72-aa25a35d04cb,hosts.ltda,available,34.99,34.99,high,low,5,namesilo,,,18/09/2026 22:23
+9d040492-160d-422c-8a72-aa25a35d04cb,hosts.ltda,available,34.99,34.99,medium,low,5,namesilo,,,18/09/2026 22:23
 f878bf4b-87cd-4b3b-b886-c3181bac4154,endure.ltda,available,34.99,34.99,high,low,6,namesilo,,,11/08/2026 02:41
-8976d9ea-8c01-439b-9382-1988d50dcc53,shaggy.ltda,available,34.99,34.99,high,low,6,namesilo,,,11/08/2026 11:17
+8976d9ea-8c01-439b-9382-1988d50dcc53,shaggy.ltda,available,34.99,34.99,medium,low,6,namesilo,,,11/08/2026 11:17
 882dd2c3-752d-47f5-bbc9-b8f1437f77b9,offered.ltda,available,34.99,34.99,medium,low,7,namesilo,,,
+91c1c6cd-f42e-443a-aa37-7703622120a1,frederick.ltda,available,55.99,55.99,high,low,9,godaddy,,,28/09/2026 01:56
 0a722cfc-f3cb-4388-b73a-22725bacbdef,shelters.ltda,available,34.99,34.99,high,low,8,namesilo,,,20/09/2026 23:17
 80d19060-c6a7-4b7f-83b9-d8f1e8a1b5bb,estimators.ltda,available,34.99,34.99,medium,low,10,namesilo,,,20/09/2026 23:34
 e677e498-59fe-4dd4-876f-6fd8baa955f7,flowing.ltda,available,34.99,34.99,high,low,7,namesilo,,,18/08/2026 09:11
@@ -943,7 +968,7 @@ b7b6dfd3-02fd-4252-8ce8-82816504dab5,laminar.ltda,available,42.98,46.98,high,low
 786657a6-a76b-453c-bd47-3b4e5260d153,exclusively.ltda,available,34.99,34.99,medium,low,11,namesilo,,,
 66937a73-1f8d-4191-a340-a18e702b49cf,organize.ltda,available,34.99,34.99,high,low,8,namesilo,,,23/09/2026 23:13
 db580ea2-5f4b-461d-b56f-6c5426e421f3,maximilian.ltda,available,34.99,34.99,high,low,10,namesilo,,,27/09/2026 07:16
-c0ef9f4b-fa00-4772-b28f-f3cf76169882,petitioner.ltda,available,34.99,34.99,high,low,10,namesilo,,,11/09/2026 03:30
+c0ef9f4b-fa00-4772-b28f-f3cf76169882,petitioner.ltda,available,34.99,34.99,medium,low,10,namesilo,,,11/09/2026 03:30
 6d0dc649-8b1f-49d5-9a3b-d4d09079edff,aviatrix.ltda,available,42.98,46.98,high,low,8,namecheap,,,17/09/2026 23:25
 fa3cf4a7-4430-41b7-8a54-a9cae5ab35f8,laterally.ltda,available,34.99,34.99,medium,low,9,namesilo,,,15/09/2026 10:56
 bc44dced-1619-41e0-80f6-fecb5be14d22,bravo.ltda,premium,56.64,33.04,high,medium,5,namesilo,,,
@@ -974,28 +999,3 @@ d3e467a5-87c0-410f-ad92-bf668ff5a7b2,pls.ltda,available,34.99,34.99,high,low,3,n
 93d8f428-1057-43d9-8292-a1462a0fcfd8,anaxagoras.ltda,available,42.98,46.98,medium,low,10,namecheap,,,19/09/2026 03:36
 f3c85143-6709-47c6-ba57-cfdcbe85e6fe,adducent.ltda,available,34.99,34.99,medium,low,8,namesilo,,,
 a1f10ef3-4732-4120-a753-9333a8699286,nihilist.ltda,available,34.99,34.99,medium,low,8,namesilo,,,19/09/2026 02:26
-40be77f6-9da2-45b8-b69e-fbbf1f33de3f,duracell.ltda,available,46.98,,high,low,8,namecheap,,,
-fd344112-368e-44b3-8dad-eaa4adaf82b8,ben.ltda,available,34.99,34.99,high,medium,3,namesilo,,,
-33e594c6-b871-4617-a797-d1019a4118b4,entangled.ltda,available,34.99,34.99,medium,low,9,namesilo,,,16/08/2026 13:26
-29f0e3a4-29c3-4ff5-96e6-cc18289b83c6,duodenal.ltda,available,42.98,46.98,medium,low,8,namecheap,,,14/08/2026 21:21
-cba48a60-bdce-4438-b643-8231dd25d9c5,twoscore.ltda,available,34.99,34.99,medium,low,8,namesilo,,,
-c6626131-74b2-4ed6-b86e-c889e6b7081d,chopper.ltda,available,34.99,34.99,high,low,7,namesilo,,,08/09/2026 11:24
-65bd1ca5-5570-423b-bc79-da87132f08f6,acclaim.ltda,available,34.99,34.99,high,low,7,namesilo,,,16/09/2026 22:32
-671ea7a0-d100-418a-8333-e5c1ce579f3b,uncle.ltda,available,34.99,34.99,high,low,5,namesilo,,,
-ef977aea-7a6b-45e0-b01b-5b1f27d57e8b,requests.ltda,available,34.99,34.99,medium,low,8,namesilo,,,17/09/2026 17:07
-e2687404-50ae-443d-a266-8c439f3b0773,laptops.ltda,available,34.99,34.99,medium,low,7,namesilo,,,20/09/2026 12:33
-a6e496b7-4ac9-464d-983a-bb71dd2e34a2,frizzy.ltda,available,34.99,34.99,medium,low,6,namesilo,,,18/08/2026 16:08
-29b0bf1b-081a-4ba2-ae50-c01670371149,lose.ltda,available,46.98,,medium,low,4,namecheap,,,
-191bcd93-8094-4278-81de-60e8ac3618de,pernicious.ltda,available,34.99,34.99,medium,low,10,namesilo,,,08/08/2026 12:01
-66a7c7ca-ce3d-41ed-b2ff-df4ae3186371,ashy.ltda,available,34.99,34.99,high,low,4,namesilo,,,07/08/2026 02:04
-3c339711-6472-45b6-a577-2b3f471cb4e1,cheek.ltda,available,34.99,34.99,high,low,5,namesilo,,,24/09/2026 11:22
-2f5e2f43-8dc4-4b7e-91bd-deb694184cb6,company.ltda,premium,60,35,high,low,7,name.com,,,25/09/2026 06:27
-36d2d2f8-7230-46c6-b2c8-b2ac32d0c215,leak.ltda,available,34.99,34.99,high,low,4,namesilo,,,
-16aa9944-01c9-495d-ae1e-fc35dcd4734d,rowland.ltda,available,34.99,34.99,high,low,7,namesilo,,,25/09/2026 15:13
-5a420587-3d04-424f-9981-e5370120aa9e,squawk.ltda,available,34.99,34.99,high,low,6,namesilo,,,23/09/2026 00:25
-e7098fc0-927a-44f0-b041-d025e4fec3ac,burr.ltda,available,34.99,34.99,medium,low,4,namesilo,,,16/09/2026 13:29
-2925edd0-e3cc-43d5-b3cb-f8a0dfabe184,vomiting.ltda,available,34.99,34.99,high,low,8,namesilo,,,
-aa9c0f55-33f3-4caa-a71f-6e7f04060dfa,uncommonly.ltda,available,42.98,46.98,medium,low,10,namecheap,,,16/09/2026 09:49
-4773de2c-11d0-4438-af66-6aff011e814f,faker.ltda,available,34.99,34.99,medium,low,5,namesilo,,,09/09/2026 05:01
-bd5072ff-b725-4f4d-8a5e-e210caf331f6,actinic.ltda,available,34.99,34.99,medium,low,7,namesilo,,,
-0572bfb9-8045-4c32-a476-f24403e27f7f,skint.ltda,available,34.99,34.99,medium,low,5,namesilo,,,11/08/2026 05:21
