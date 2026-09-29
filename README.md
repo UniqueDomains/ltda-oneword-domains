@@ -1,10 +1,10 @@
-# Available .LTDA One-Word Domains (25,339)
+# Available .LTDA One-Word Domains (27,457)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C339%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C457%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ltda one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,339 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,457 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,339 domains · **Median ask:** $37.80 · **High-demand under $2,500:** 66
+**Public extract:** 1,000 rows · **Live catalog:** 27,457 domains · **Median ask:** $37.57 · **High-demand under $2,500:** 73
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/ltda`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| arm.ltda  | available | $34.99    | $34.99        | high           | medium | 3      | namesilo  |
-| bye.ltda  | premium   | $56.64    | $33.04        | high           | low    | 3      | namesilo  |
-| azt.ltda  | available | $42.98    | $46.98        | high           | low    | 3      | namecheap |
-| hoy.ltda  | premium   | $66.30    | $66.30        | high           | low    | 3      | namecheap |
-| cpr.ltda  | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
-| agua.ltda | premium   | $66.30    | $66.30        | high           | low    | 4      | namecheap |
-| cry.ltda  | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
-| goal.ltda | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
-| doc.ltda  | available | $34.99    | $34.99        | high           | medium | 3      | namesilo  |
-| lean.ltda | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
-| dye.ltda  | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
-| made.ltda | premium   | $56.64    | $33.04        | high           | medium | 4      | namesilo  |
-| fly.ltda  | available | $42.98    | $46.98        | high           | medium | 3      | namecheap |
-| next.ltda | premium   | $56.64    | $33.04        | high           | high   | 4      | namesilo  |
-| fog.ltda  | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
-| song.ltda | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
-| gay.ltda  | available | $42.98    | $46.98        | high           | medium | 3      | namecheap |
-| taxi.ltda | premium   | $66.30    | $66.30        | high           | low    | 4      | namecheap |
-| had.ltda  | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
-| tool.ltda | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| aia.ltda   | available | $42.98    | $46.98        | high           | low    | 3      | namecheap |
+| bye.ltda   | premium   | $56.64    | $33.04        | high           | low    | 3      | namesilo  |
+| arm.ltda   | available | $34.99    | $34.99        | high           | medium | 3      | namesilo  |
+| hoy.ltda   | premium   | $66.30    | $66.30        | high           | low    | 3      | namecheap |
+| azt.ltda   | available | $42.98    | $46.98        | high           | low    | 3      | namecheap |
+| agua.ltda  | premium   | $66.30    | $66.30        | high           | low    | 4      | namecheap |
+| cpr.ltda   | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
+| goal.ltda  | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
+| cry.ltda   | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
+| lean.ltda  | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
+| doc.ltda   | available | $34.99    | $34.99        | high           | medium | 3      | namesilo  |
+| made.ltda  | premium   | $56.64    | $33.04        | high           | medium | 4      | namesilo  |
+| dye.ltda   | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
+| next.ltda  | premium   | $56.64    | $33.04        | high           | high   | 4      | namesilo  |
+| fia.ltda   | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo  |
+| song.ltda  | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
+| fly.ltda   | available | $42.98    | $46.98        | high           | medium | 3      | namecheap |
+| tool.ltda  | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo  |
+| fog.ltda   | available | $34.99    | $34.99        | high           | low    | 3      | namesilo  |
+| cargo.ltda | premium   | $66.30    | $66.30        | high           | low    | 5      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,339 live domains                        |
+| 1,000-row public sample | 27,457 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 66 high-demand names under $2,500          |
+| Basic exported fields   | 73 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LTDA One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LTDA One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
